@@ -2,7 +2,7 @@
   <a href="/html/">Home</a> |
   <a href="/css/">Bio</a> |
   <a href="/js/">Courses</a> |
-  <a href="/jquery/">Publications</a> |
+  <a href="/publications.md/">Publications</a> |
   <a href="/jquery/">Contact</a>
 </nav>
 
