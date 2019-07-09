@@ -1,3 +1,11 @@
+<nav>
+  <a href="/html/">Home</a> |
+  <a href="/css/">Bio</a> |
+  <a href="/js/">Courses</a> |
+  <a href="/jquery/">Publications</a> |
+  <a href="/jquery/">Contact</a>
+</nav>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jahic/jahic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
