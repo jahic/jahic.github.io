@@ -1,10 +1,10 @@
  <link rel="stylesheet" type="text/css" href="style.css">
 
 <nav>
-  <h3><a href="/html/">Home</a>  |</h3>
-  <h3><a href="/css/">Bio</a> | </h3>
-  <h3><a href="/js/">Courses</a> | </h3>
-  <h3><a href="/publications/">Publications</a> | </h3>
+  <h3><a href="/html/">Home</a>  </h3>
+  <h3><a href="/css/">Bio</a> </h3>
+  <h3><a href="/js/">Courses</a> </h3>
+  <h3><a href="/publications/">Publications</a> </h3>
   <h3><a href="/jquery/">Contact</a> </h3>
 </nav>
 
