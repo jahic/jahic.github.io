@@ -1,4 +1,4 @@
- <!--link rel="stylesheet" type="text/css" href="style.css"-->
+ <link rel="stylesheet" type="text/css" href="styleAdded.css">
 
 <nav>
   <h3><a href="/html/">Home</a>  </h3>
