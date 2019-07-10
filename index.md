@@ -1,5 +1,5 @@
 <nav>
-  <a href="/html/">Home</a> |
+  <h3><a href="/html/">Home</a> </h3> |
   <a href="/css/">Bio</a> |
   <a href="/js/">Courses</a> |
   <a href="/publications/">Publications</a> |
