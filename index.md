@@ -1,9 +1,9 @@
 <nav>
-  <h3><a href="/html/">Home</a> </h3> |
-  <a href="/css/">Bio</a> |
-  <a href="/js/">Courses</a> |
-  <a href="/publications/">Publications</a> |
-  <a href="/jquery/">Contact</a>
+  <h3><a href="/html/">Home</a>  |</h3>
+  <h3><a href="/css/">Bio</a> | </h3>
+  <h3><a href="/js/">Courses</a> | </h3>
+  <h3><a href="/publications/">Publications</a> | </h3>
+  <h3><a href="/jquery/">Contact</a> </h3>
 </nav>
 
 ## Welcome to GitHub Pages
