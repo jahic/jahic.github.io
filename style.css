@@ -2,3 +2,8 @@ body
 {
   background-color: #05ffb0;
 }
+
+h3 
+{
+    display: inline-block;
+}
