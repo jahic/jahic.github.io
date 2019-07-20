@@ -7,30 +7,3 @@ p
 {
     color: blue;
 }
-
-#container
-{
-    width: 90%;
-    margin-left:0;
-    margin-right:0;
-    padding-left:0;
-    padding-right:0;
-}
-
-#inner
-{
-    width: 100%;
-    margin-left:0;
-    margin-right:0;
-    padding-left:0;
-    padding-right:0;
-}
-
-#main_content
-{
-    width: 100%;
-    margin-left:0;
-    margin-right:0;
-    padding-left:0;
-    padding-right:0;
-}
