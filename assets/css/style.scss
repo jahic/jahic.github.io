@@ -1,7 +1,7 @@
 ---
 ---
 
-/*@import "{{ site.theme }}";*/
+@import "{{ site.theme }}";
 
 p
 {
@@ -17,7 +17,7 @@ p
     padding-right:0;
 }
 
-#inner
+.inner
 {
     width: 100%;
     margin-left:0;
