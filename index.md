@@ -8,6 +8,8 @@
   <h3><a href="/jquery/">Contact</a> </h3>
 </nav>
 
+<p>Jasmin Jahic</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jahic/jahic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
