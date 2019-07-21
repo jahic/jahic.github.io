@@ -14,12 +14,35 @@ nav
     margin-bottom: 5px;
 }
 
+.conferencePaperInput
+{
+    display: inline;
+}
+
 .conferenceAbbreviation
 {
     font-weight: bold;
 }
 
-.conferencePaperInput
+.conferenceAuthors
 {
-    display: inline;
+    
+}
+
+.conferenceArticleTitle
+{
+    
+}
+
+.conferenceName
+{
+    font-style: italic;
+}
+.conferenceDate
+{
+    
+}
+.conferenceNote
+{
+    
 }
