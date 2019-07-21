@@ -13,3 +13,13 @@ nav
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+.conferenceAbbreviation
+{
+    font-weight: bold;
+}
+
+.conferencePaperInput
+{
+    display: inline;
+}
