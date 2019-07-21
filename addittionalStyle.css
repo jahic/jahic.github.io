@@ -25,13 +25,18 @@ nav
     display: inline;
 }
 
+.conferenceArticleTitle
+{
+    display: inline;
+}
 .conferenceAuthors
 {
     display: inline;
 }
 
-.conferenceArticleTitle
+.authorMe
 {
+    text-decoration: underline;
     display: inline;
 }
 
