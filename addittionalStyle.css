@@ -22,27 +22,29 @@ nav
 .conferenceAbbreviation
 {
     font-weight: bold;
+    display: inline;
 }
 
 .conferenceAuthors
 {
-    
+    display: inline;
 }
 
 .conferenceArticleTitle
 {
-    
+    display: inline;
 }
 
 .conferenceName
 {
     font-style: italic;
+    display: inline;
 }
 .conferenceDate
 {
-    
+    display: inline;
 }
 .conferenceNote
 {
-    
+    display: inline;
 }
