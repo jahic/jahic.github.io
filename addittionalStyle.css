@@ -36,7 +36,8 @@ nav
 
 .authorMe
 {
-    /*text-decoration: underline;*/
+    display: inline;
+    text-decoration: underline;
 }
 
 .conferenceName

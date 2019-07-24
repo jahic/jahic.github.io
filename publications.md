@@ -8,8 +8,11 @@
         Mitigating the Influence of Embedded Software Development Environments and Toolsets (ESDT) on Software Architecture.
     </p>
 
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
     <p class="conferenceAuthors"> 
-        Jasmin Jahić, Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. 
+         , Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. 
     </p>  
 
     <p class="conferenceName">
