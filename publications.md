@@ -11,6 +11,7 @@
     <p class="authorMe">
     Jasmin Jahić
     </p>
+
     <p class="conferenceAuthors"> 
          , Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. 
     </p>  

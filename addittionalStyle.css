@@ -14,6 +14,12 @@ nav
     margin-bottom: 5px;
 }
 
+.authorMe
+{
+    display: inline;
+    /*text-decoration: underline;*/
+}
+
 .conferencePaperInput
 {
     display: inline;    
@@ -34,11 +40,7 @@ nav
     display: inline;
 }
 
-.authorMe
-{
-    display: inline;
-    text-decoration: underline;
-}
+
 
 .conferenceName
 {
