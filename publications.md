@@ -18,7 +18,7 @@
     </p>  
 
     <p class="conferenceName">
-        IEEE International Conference on Software Architecture (ICSA)
+        IEEE International Conference on Software Architecture
     </p>
 
     <p class="conferencePlace">
@@ -59,7 +59,7 @@
     </p>  
 
     <p class="conferenceName">
-        IEEE International Conference on Software Architecture (ICSA)
+        IEEE International Conference on Software Architecture 
     </p>
 
     <p class="conferencePlace">
@@ -157,6 +157,52 @@
     <br/> 
     [ 
     <a href="https://doi.org/10.1145/3229631.3229641">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICSA 2018
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Bridging the Gap between Architecture Specifications and Simulation Models.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Pablo Oliveira Antonino
+    </p>
+
+    <p class="authorMe">
+        , Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Benno Kallweit, Andreas Morgenstern, Thomas Kuhn.
+    </p>  
+
+    <p class="conferenceName">
+        IEEE International Conference on Software Architecture
+    </p>
+
+    <p class="conferencePlace">
+        Seattle, WA, USA
+    </p>
+
+    <p class="conferenceDate">
+        30 April-4 May 2018
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1109/ICSA-C.2018.00029">
         DOI
     </a> 
     | 
