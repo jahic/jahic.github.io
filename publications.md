@@ -55,7 +55,7 @@
     Jasmin Jahić
     </p>
     <p class="conferenceAuthors">         
-        , Varun Kumar ; Pablo Oliveira Antonino ; Gerhard Wirrer. 
+        , Varun Kumar, Pablo Oliveira Antonino, Gerhard Wirrer. 
     </p>  
 
     <p class="conferenceName">
@@ -116,6 +116,47 @@
     <br/> 
     [ 
     <a href="https://doi.org/10.1007/978-3-030-03769-7_28">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        SAMOS 2018
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        BOSMI: a framework for non-intrusive monitoring and testing of embedded multithreaded software on the logical level.
+    </p>
+
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn, Matthias Jung, Norbert Wehn.
+    </p>  
+
+    <p class="conferenceName">
+        ACM International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
+    </p>
+
+    <p class="conferencePlace">
+        Samos, Greece
+    </p>
+
+    <p class="conferenceDate">
+        15 - 19 July 2018
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1145/3229631.3229641">
         DOI
     </a> 
     | 
