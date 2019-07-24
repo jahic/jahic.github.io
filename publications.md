@@ -9,7 +9,7 @@
     </p>
 
     <p class="conferenceAuthors"> 
-        <div class="authorMe"> Jasmin Jahić </div>, Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. 
+        Jasmin Jahić, Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. 
     </p>  
 
     <p class="conferenceName">
