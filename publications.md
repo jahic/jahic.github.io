@@ -1,3 +1,5 @@
+## Journals
+
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -121,3 +123,5 @@
         slides
     </a>]
   </p>
+
+## Posters
