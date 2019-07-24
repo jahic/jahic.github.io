@@ -12,7 +12,7 @@
     [ DOI | slides ]
   </p>
 * <p class="conferenceAbbreviation"></p> 
-  <p class="conferenceAuthors"> Jasmin Jahić, Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. </p>
+  <p class="conferenceAuthors"> <p class="authorMe">Jasmin Jahić</p>, Peter Enbrecht, Uwe Mayer, and Pablo Oliveira Antonino. </p>
   <p class="conferenceTitle"> Mitigating the Influence of Embedded Software Development Environments and Toolsets (ESDT) on Software Architecture </p>
   <p class="conferenceDate"></p>
   <br/> 
