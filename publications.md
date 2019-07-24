@@ -175,11 +175,11 @@
     </p>
 
     <p class="conferenceAuthors">         
-        Pablo Oliveira Antonino
+        Pablo Oliveira Antonino,
     </p>
 
     <p class="authorMe">
-        , Jasmin Jahić
+        Jasmin Jahić
     </p>
 
     <p class="conferenceAuthors">         
@@ -203,6 +203,52 @@
     <br/> 
     [ 
     <a href="https://doi.org/10.1109/ICSA-C.2018.00029">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ISSREW 2017
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Accelerated Simulated Fault Injection Testing.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Emilia Cioroaica
+    </p>
+
+    <p class="authorMe">
+        , Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn, Christian Peper, Denis Uecker, Christoph Dropmann, Peter Munk, Amarnath Rakshith, Eike Thaden.
+    </p>  
+
+    <p class="conferenceName">
+        IEEE International Symposium on Software Reliability Engineering Workshops.
+    </p>
+
+    <p class="conferencePlace">
+        Toulouse, France
+    </p>
+
+    <p class="conferenceDate">
+        16 November 2017
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1109/ISSREW.2017.35">
         DOI
     </a> 
     | 
