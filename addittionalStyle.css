@@ -16,7 +16,6 @@ nav
 
 .conferencePaperInput
 {
-    display: block;
     display: inline;    
 }
 
@@ -32,13 +31,12 @@ nav
 }
 .conferenceAuthors
 {
-    display: block;
     display: inline;
 }
 
 .authorMe
 {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 .conferenceName
