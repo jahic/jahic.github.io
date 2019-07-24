@@ -17,7 +17,7 @@ nav
 .authorMe
 {
     display: inline;
-    /*text-decoration: underline;*/
+    text-decoration: underline;
 }
 
 .conferencePaperInput
