@@ -47,6 +47,10 @@ nav
     font-style: italic;
     display: inline;
 }
+.conferencePlace
+{
+    display: inline;
+}
 .conferenceDate
 {
     display: inline;
