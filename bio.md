@@ -9,7 +9,7 @@
     <div id="bio_basic_info">
         <p>
 
-        Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/" Fraunhofer Institute for Experimental Software Engineering</a>. 
+        Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
         Also, I'm a tutor at <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a> and a coordinator of <a href="http://em-se.eu/">European Master Program in Software Engineering</a> for <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a>.
 
          </p>
@@ -24,7 +24,7 @@
         <p>
         Currently, I am finalizing my PhD with topic "Supervised Testing of Embedded Concurrent Software" in 
         <a href="https://ems.eit.uni-kl.de/en/staff/jasmin-jahic/">Microelectronic Systems Design group</a> 
-        and <a href="http://agse3.informatik.uni-kl.de/"Software Engineering Chair: Dependability department</a> at 
+        and <a href="http://agse3.informatik.uni-kl.de/"> Software Engineering Chair: Dependability department</a> at 
         <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a>.
 
         My my M.Sc. was in Robotics and Signal Processing, at <a href="https://www.ec-nantes.fr/">Ecole Centrale de Nantes</a> in France, 
