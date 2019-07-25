@@ -3,6 +3,88 @@
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        ICPP-EMS 2019
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Rapid Identification of Shared Memory in Multithreaded Embedded Systems with Static Scheduling.
+    </p>
+
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        , Varun Kumar, Matthias Jung, Gerhard Wirrer, Norbert Wehn, Thomas Kuhn. 
+    </p>  
+
+    <p class="conferenceName">
+        ACM International Workshop on Embedded Multicore Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Kyoto, Japan
+    </p>
+
+    <p class="conferenceDate">
+        5 August 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICPP-EMS 2019
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        (Dis)Advantages of Lock-free Synchronization Mechanisms forMulticore Embedded Systems.
+    </p>
+
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        , Khuram Ali, Milad Chatrangoon, Nazanin Jahani. 
+    </p>  
+
+    <p class="conferenceName">
+        ACM International Workshop on Embedded Multicore Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Kyoto, Japan
+    </p>
+
+    <p class="conferenceDate">
+        5 August 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         ICSA 2019
     </p> 
 
@@ -141,7 +223,7 @@
     </p>  
 
     <p class="conferenceName">
-        ACM International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation
+        ACM International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation.
     </p>
 
     <p class="conferencePlace">
@@ -257,4 +339,204 @@
     </a>]
   </p>
 
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        SAMOS 2017
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Supervised testing of concurrent software in embedded systems.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn, Matthias Jung, Norbert Wehn.
+    </p>  
+
+    <p class="conferenceName">
+        IEEE International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation.
+    </p>
+
+    <p class="conferencePlace">
+        Samos, Greece
+    </p>
+
+    <p class="conferenceDate">
+        17-20 July 2017
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1109/SAMOS.2017.8344633">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ISSREW 2014
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Analysis of Functional Software Dependencies through Supervised Execution.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn.
+    </p>  
+
+    <p class="conferenceName">
+        IEEE International Symposium on Software Reliability Engineering Workshops.
+    </p>
+
+    <p class="conferencePlace">
+        Naples, Italy
+    </p>
+
+    <p class="conferenceDate">
+        3-6 November 2014
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1109/ISSREW.2014.92">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        IDEAL 2014
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Automatic Test Coverage Measurements to support Design Space Exploration.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thiyagarajan Purusothaman, Markus Damm, Thomas Kuhn, Peter Liggesmeyer, Christoph Grimm.
+    </p>  
+
+    <p class="conferenceName">
+        Springer International Workshop on Design Space Exploration of Cyber-Physical Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Berlin, Germany
+    </p>
+
+    <p class="conferenceDate">
+        14 April 2014
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://pdfs.semanticscholar.org/4bb5/b831f89c1889f2eaf8e3aada8282cf2641ca.pdf">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
 ## Posters
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        DATE 2018
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Supervised Testing of Embedded Concurrent Software.
+    </p>
+
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        
+    </p>  
+
+    <p class="conferenceName">
+        Design, Automation and Test in Europe.
+    </p>
+
+    <p class="conferencePlace">
+        Florence, Italy
+    </p>
+
+    <p class="conferenceDate">
+        26 March 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Poster
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ACACES 2017
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Support Development and Testing of Concurrent Software through Supervised Software Execution.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        
+    </p>  
+
+    <p class="conferenceName">
+        International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Fiuggi, Italy
+    </p>
+
+    <p class="conferenceDate">
+        9-15 July 2017
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Poster
+    </a>]
+  </p>
