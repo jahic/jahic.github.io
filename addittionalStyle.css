@@ -63,6 +63,8 @@ nav
 #bio_wrapper
 {
     width:100%;
+    height:100%;
+    float:left;
 }
 
 #bio_photo
