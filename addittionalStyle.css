@@ -59,3 +59,20 @@ nav
 {
     display: inline;
 }
+
+#bio_wrapper
+{
+    width:100%;
+}
+
+#bio_photo
+{
+    width:50%;
+    float: left;
+}
+
+#bio_basic_info
+{
+    width:50%;
+    float: left;
+}
