@@ -1,10 +1,8 @@
-    <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
-    <div id="bio_photo">
-        
-    </div>
 
-    <div id="bio_basic_info">
-        <p>
+
+<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
+
+<p>
 
         Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
         Also, I'm a tutor at <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a> and a coordinator of <a href="http://em-se.eu/">European Master Program in Software Engineering</a> for <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a>.
@@ -28,4 +26,18 @@
         and I received my technical computer science diploma from <a href="http://www.fe.untz.ba/">Faculty of Electrical Engineering</a>, 
         <a href="http://www.untz.ba/">University of Tuzla</a>, <a href="https://www.youtube.com/watch?v=hmxV9wWfm0Y">Bosnia and Herzegovina</a>.
         </p>
+
+<div id="bio_wrapper">
+
+
+    <div id="bio_photo">
+        
     </div>
+
+    <div id="bio_basic_info">
+        
+    </div>
+
+</div>
+
+
