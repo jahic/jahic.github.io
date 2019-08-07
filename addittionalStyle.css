@@ -62,18 +62,18 @@ nav
 
 #bio_wrapper
 {
-    /*width:100%;*/
-    float:left;
+    width:100%;
+    float: left;
 }
 
 #bio_photo
 {
-    /*width:45%;*/
+    width:45%;
     float: left;
 }
 
 #bio_basic_info
 {
-    /*width:45%;*/
+    width:45%;
     float: right;
 }
