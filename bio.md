@@ -1,3 +1,5 @@
+<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
+
 
 <div id="bio_wrapper">
 
