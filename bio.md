@@ -2,10 +2,10 @@
 
 <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
 
-    <p>
+<p>
         Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
         Also, I'm a tutor at <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a> and a coordinator of <a href="http://em-se.eu/">European Master Program in Software Engineering</a> for <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a>.
-    </p>
+</p>
 
     <p>
         My research interests include high-performance concurrent computing, engineering and software architecture of concurrent embedded systems, 
