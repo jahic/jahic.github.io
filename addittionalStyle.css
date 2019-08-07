@@ -68,12 +68,12 @@ nav
 
 #bio_photo
 {
-    width:45%;
+    /*width:45%;*/
     float: left;
 }
 
 #bio_basic_info
 {
-    width:45%;
+    /*width:45%;*/
     float: right;
 }
