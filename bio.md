@@ -1,6 +1,3 @@
-
-<!--div id="bio_wrapper"-->
-
     <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
     <div id="bio_photo">
         
@@ -32,5 +29,3 @@
         <a href="http://www.untz.ba/">University of Tuzla</a>, <a href="https://www.youtube.com/watch?v=hmxV9wWfm0Y">Bosnia and Herzegovina</a>.
         </p>
     </div>
-
-<!--/div-->
