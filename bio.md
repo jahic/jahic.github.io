@@ -1,6 +1,4 @@
-<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
-
-
+<p>
 <div id="bio_wrapper">
 
 
@@ -37,4 +35,4 @@
 
 </div>
 
-
+</p>
