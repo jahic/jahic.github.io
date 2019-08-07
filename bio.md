@@ -13,7 +13,7 @@
     </p>
 
 
-    <p>
+<p>
         Currently, I am finalizing my PhD with topic "Supervised Testing of Embedded Concurrent Software" in 
         <a href="https://ems.eit.uni-kl.de/en/staff/jasmin-jahic/">Microelectronic Systems Design group</a> 
         and <a href="http://agse3.informatik.uni-kl.de/"> Software Engineering Chair: Dependability department</a> at 
@@ -22,7 +22,7 @@
         My my M.Sc. was in Robotics and Signal Processing, at <a href="https://www.ec-nantes.fr/">Ecole Centrale de Nantes</a> in France, 
         and I received my technical computer science diploma from <a href="http://www.fe.untz.ba/">Faculty of Electrical Engineering</a>, 
         <a href="http://www.untz.ba/">University of Tuzla</a>, <a href="https://www.youtube.com/watch?v=hmxV9wWfm0Y">Bosnia and Herzegovina</a>.
-    </p>
+</p>
 
 <div id="bio_wrapper">
 
