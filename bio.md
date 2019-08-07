@@ -1,9 +1,9 @@
-<p>
-<div id="bio_wrapper">
 
+<!--div id="bio_wrapper"-->
 
+    <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
     <div id="bio_photo">
-        <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
+        
     </div>
 
     <div id="bio_basic_info">
@@ -33,6 +33,4 @@
         </p>
     </div>
 
-</div>
-
-</p>
+<!--/div-->
