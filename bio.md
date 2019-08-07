@@ -1,6 +1,6 @@
 
 
-<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>
+
 
 <p>
         Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
@@ -27,9 +27,9 @@
 <div id="bio_wrapper">
 
 
-    <div id="bio_photo">
-        
-    </div>
+<div id="bio_photo">
+<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>        
+</div>
 
     <div id="bio_basic_info">
         
