@@ -1,10 +1,5 @@
 <div id="bio_wrapper">
 
-
-<div id="bio_photo">
-<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>        
-</div>
-
 <div id="bio_basic_info">
 <p>
         Currently, I am finalizing my PhD with topic "Supervised Testing of Embedded Concurrent Software" in 
@@ -25,6 +20,12 @@
         improving living conditions using low-power embedded systems, and application of AI in Software Engineering.
 </p>      
 </div>
+
+<div id="bio_photo">
+<img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>        
+</div>
+
+
 
 </div>
 
