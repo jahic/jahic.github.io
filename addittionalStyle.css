@@ -64,16 +64,19 @@ nav
 {
     width:100%;
     float: left;
+    display: inline;
 }
 
 #bio_photo
 {
     width:45%;
     float: left;
+    display: inline;
 }
 
 #bio_basic_info
 {
     width:45%;
     float: right;
+    display: inline;
 }
