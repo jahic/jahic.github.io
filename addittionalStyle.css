@@ -64,6 +64,7 @@ nav
 {
     width:100%;
     float: left;
+    vertical-align:initial;
     display: inline;
 }
 
@@ -71,6 +72,7 @@ nav
 {
     width:45%;
     float: left;
+    vertical-align:initial;
     display: inline;
 }
 
@@ -78,5 +80,6 @@ nav
 {
     width:45%;
     float: right;
+    vertical-align:initial;
     display: inline;
 }
