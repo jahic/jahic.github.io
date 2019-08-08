@@ -1,4 +1,7 @@
 
+
+
+
 <div id="bio_wrapper">
     <div id="bio_photo">
         <img src="img/JasminJahicProfile.png" alt="Jasmin Jahic profile photo" title="me"/>        
