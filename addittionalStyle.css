@@ -66,6 +66,8 @@ nav
     float: left;
     vertical-align:initial;
     display: inline;
+    border:none;
+    margin:initial;
 }
 
 #bio_photo
@@ -74,12 +76,16 @@ nav
     float: left;
     vertical-align:initial;
     display: inline;
+    border:none;
+    margin:initial;
 }
 
 #bio_basic_info
 {
     width:45%;
-    float: right;
+    float: left;
     vertical-align:initial;
     display: inline;
+    border:none;
+    margin:initial;
 }
