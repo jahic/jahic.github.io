@@ -65,7 +65,6 @@ nav
     width:100%;
     float: left;
     vertical-align:initial;
-    display: inline;
     border:none;
     margin:initial;
 }
@@ -75,7 +74,6 @@ nav
     width:45%;
     float: left;
     vertical-align:initial;
-    display: inline;
     border:none;
     margin:initial;
 }
@@ -85,7 +83,6 @@ nav
     width:45%;
     float: left;
     vertical-align:initial;
-    display: inline;
     border:none;
     margin:initial;
 }
