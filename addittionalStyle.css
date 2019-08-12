@@ -62,7 +62,7 @@ nav
 {
     width:100%;
     float: left;
-    vertical-align:initial;
+    /*vertical-align:initial;*/
     border:none;
     margin:initial;
 }
@@ -71,7 +71,7 @@ nav
 {
     width:35%;
     float: left;
-    vertical-align:initial;
+    /*vertical-align:initial;*/
     border:none;
     margin:initial;
 }
