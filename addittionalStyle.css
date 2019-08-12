@@ -82,6 +82,6 @@ nav
     float: left;
     vertical-align:initial;
     border:none;
-    margin:initial;
+    /*margin:initial;*/
     margin-left: 10px;
 }
