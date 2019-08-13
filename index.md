@@ -27,7 +27,7 @@
 
 <p>Jasmin Jahic</p>
 
-Github projects
+
 
 Quotes
 
