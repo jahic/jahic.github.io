@@ -12,13 +12,13 @@
     </p>
 
     <p class="conferenceAuthors">         
-        Emilia Cioroaica, Felicita Di Giandomenico, Thomas Kuhn, Francesca Lonetti, Eda Marchetti, 
+        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,
     </p>
     <p class="authorMe">
     Jasmin JahiÄ‡
     </p>
     <p class="conferenceAuthors">         
-        , Frank Schnicke.
+        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
     </p>  
 
     <p class="conferenceName">
@@ -26,18 +26,18 @@
     </p>
 
     <p class="conferencePlace">
-        Berlin, Germany
+        Portoroz, Solvenia
     </p>
 
     <p class="conferenceDate">
-        28 - 31 October 2019
+        26 – 28 August 2020
     </p>
 
     <p class="conferenceNote">
     </p>
     <br/> 
     [ 
-    <a href="https://doi.org/10.1109/ISSREW.2019.00072">
+    <a href="#">
         DOI
     </a> 
     | 
