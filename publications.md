@@ -66,7 +66,7 @@
     </p>  
 
     <p class="conferenceName">
-        Report - <a href="https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html">https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html</a>.
+        
     </p>
 
     <p class="conferencePlace">
