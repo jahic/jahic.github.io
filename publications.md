@@ -52,10 +52,10 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Scouting the Autonomous Agricultural Machinery Market.
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
     </p>
 
-    <p class="conferenceAuthors">
+    <p class="conferenceAuthors">         
         Jörg Dörr, Bob Fairclough, Jens Henningsen,  
     </p>
     <p class="authorMe">
