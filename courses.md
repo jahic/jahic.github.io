@@ -11,13 +11,13 @@
  
     </p>
     <p class="authorMe">
-    Jasmin Jahić
+    Jasmin Jahić.
     </p>
     <p class="conferenceAuthors">         
      </p>  
 
     <p class="conferenceName">
-        Summer school EMSE 2019
+        European Master Program in Software Engineering (EMSE) - Summer school.
     </p>
 
     <p class="conferencePlace">
