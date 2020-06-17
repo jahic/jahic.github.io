@@ -52,11 +52,11 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+        Scouting the Autonomous Agricultural Machinery Market.
     </p>
 
-    <p class="conferenceAuthors">         
-        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,  
+    <p class="conferenceAuthors">
+        Jörg Dörr, Bob Fairclough, Jens Henningsen,  
     </p>
     <p class="authorMe">
     Jasmin JahiÄ‡
