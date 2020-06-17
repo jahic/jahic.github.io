@@ -30,14 +30,14 @@
     </p>
 
     <p class="conferenceDate">
-        26 – 28 August 2020
+        28 - 31 October 2019
     </p>
 
     <p class="conferenceNote">
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.1109/ISSREW.2019.00072">
         DOI
     </a> 
     | 
