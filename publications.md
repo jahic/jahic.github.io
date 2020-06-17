@@ -3,6 +3,50 @@
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        DSD2020
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
+    </p>
+
+    <p class="conferenceAuthors">         
+        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari, 
+    </p>
+    <p class="authorMe">
+    J. Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
+    </p>  
+
+    <p class="conferenceName">
+        Report - <a href="https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html">https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html</a>.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany
+    </p>
+
+    <p class="conferenceDate">
+        5 November 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         Fraunhofer IESE
     </p> 
 
