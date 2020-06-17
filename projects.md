@@ -9,6 +9,6 @@
 
 ## Aramis I
 #### ARAMiS aims to use multicore technology in the automotive, avionics and rail mobility domains to create the technological basis for further increasing safety, traffic efficiency and comfort. The knowledge gained after the implementation of this project also forms the indispensable foundation for the successful networking of embedded systems to cyber physical systems (CPS).
-<https://www.projekt-aramis.de/">https://www.projekt-aramis.de//</a>
+<ahref="https://www.projekt-aramis.de/">https://www.projekt-aramis.de/</a>
  
 Github projects
