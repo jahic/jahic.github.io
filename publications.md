@@ -26,18 +26,18 @@
     </p>
 
     <p class="conferencePlace">
-        Berlin, Germany
+        Portoroz, Slovenia
     </p>
 
     <p class="conferenceDate">
-        28 - 31 October 2019
+        26 - 28 August 2020
     </p>
 
     <p class="conferenceNote">
     </p>
     <br/> 
     [ 
-    <a href="https://doi.org/10.1109/ISSREW.2019.00072">
+    <a href="#">
         DOI
     </a> 
     | 
