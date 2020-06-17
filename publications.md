@@ -4,40 +4,40 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        DSD2020
+        ISSREW 2019
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
     </p>
 
     <p class="conferenceAuthors">         
-        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari, 
+        Emilia Cioroaica, Felicita Di Giandomenico, Thomas Kuhn, Francesca Lonetti, Eda Marchetti, 
     </p>
     <p class="authorMe">
-        J. JahiÄ‡
+    Jasmin JahiÄ‡
     </p>
     <p class="conferenceAuthors">         
-        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
+        , Frank Schnicke.
     </p>  
 
     <p class="conferenceName">
-        Euromicro Conference on Digital System Design.
+        IEEE International Symposium on Software Reliability Engineering Workshops.
     </p>
 
     <p class="conferencePlace">
-        Portorož, Slovenia
+        Berlin, Germany
     </p>
 
     <p class="conferenceDate">
-        26 – 28 August 2020
+        28 - 31 October 2019
     </p>
 
     <p class="conferenceNote">
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.1109/ISSREW.2019.00072">
         DOI
     </a> 
     | 
@@ -45,6 +45,7 @@
         slides
     </a>]
   </p>
+
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
