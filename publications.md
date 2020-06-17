@@ -3,6 +3,50 @@
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        Fraunhofer IESE
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Jörg Dörr, Bob Fairclough, Jens Henningsen, 
+    </p>
+    <p class="authorMe">
+    Jasmin JahiÄ‡
+    </p>
+    <p class="conferenceAuthors">         
+        , Stefan Kersting, Patrick Mennig, Christian Peper, Friederike Scholten-Buschhoff.
+    </p>  
+
+    <p class="conferenceName">
+        Report - <a href="https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html">https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html</a>.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany
+    </p>
+
+    <p class="conferenceDate">
+        5 November 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         ISSREW 2019
     </p> 
 
@@ -36,7 +80,7 @@
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.1109/ISSREW.2019.00072">
         DOI
     </a> 
     | 
@@ -82,7 +126,7 @@
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.1145/3344948.3344980">
         DOI
     </a> 
     | 
@@ -124,7 +168,7 @@
     </p>
     <br/> 
     [ 
-    <a href="https://doi.org/10.1145/3344948.3344980">
+    <a href="https://doi.org/10.1145/3339186.3339195">
         DOI
     </a> 
     | 
@@ -165,7 +209,7 @@
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.1145/3339186.3339191">
         DOI
     </a> 
     | 
