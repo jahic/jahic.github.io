@@ -56,7 +56,7 @@
     </p>
 
     <p class="conferenceAuthors">         
-        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,  
+        Joerg Doerr, Bob Fairclough, Jens Henningsen,  
     </p>
     <p class="authorMe">
     Jasmin Jahić
