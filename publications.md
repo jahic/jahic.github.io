@@ -48,25 +48,25 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        Fraunhofer IESE
+        Fraunhofer IESE 
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
     </p>
 
     <p class="conferenceAuthors">         
-        Jörg Dörr, Bob Fairclough, Jens Henningsen, 
+        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,  
     </p>
     <p class="authorMe">
     Jasmin JahiÄ‡
     </p>
     <p class="conferenceAuthors">         
-        , Stefan Kersting, Patrick Mennig, Christian Peper, Friederike Scholten-Buschhoff.
+        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
     </p>  
 
     <p class="conferenceName">
-        
+        Report.
     </p>
 
     <p class="conferencePlace">
