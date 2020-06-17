@@ -26,7 +26,7 @@
     </p>
 
     <p class="conferencePlace">
-        Portoroz, Solvenia
+        Berlin, Germany
     </p>
 
     <p class="conferenceDate">
