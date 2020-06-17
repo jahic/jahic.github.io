@@ -3,20 +3,69 @@
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        ICPP-EMS 2019
+        ISSREW 2019
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Emilia Cioroaica, Felicita Di Giandomenico, Thomas Kuhn, Francesca Lonetti, Eda Marchetti, 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">         
+        , Frank Schnicke.
+    </p>  
+
+    <p class="conferenceName">
+        IEEE International Symposium on Software Reliability Engineering Workshops.
+    </p>
+
+    <p class="conferencePlace">
+        Berlin, Germany
+    </p>
+
+    <p class="conferenceDate">
+        28 - 31 October 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ECSA 2019
     </p> 
 
     <p class="conferenceArticleTitle"> 
         Detection of conflicts and inconsistencies between architecture solutions.
     </p>
 
-    <p class="authorMe">
-    Jasmin Jahić
-    </p>
     <p class="conferenceAuthors">         
-        , Varun Kumar, Matthias Jung, Gerhard Wirrer, Norbert Wehn, Thomas Kuhn. 
+        Benno Kallweit, Pablo Oliveira Antonino, 
     </p>  
 
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn, Peter Liggesmeyer. 
+    </p> 
+    
     <p class="conferenceName">
         ACM International Workshop on Embedded Multicore Systems.
     </p>
@@ -51,17 +100,13 @@
         Rapid Identification of Shared Memory in Multithreaded Embedded Systems with Static Scheduling.
     </p>
 
-    <p class="conferenceAuthors">         
-        Benno Kallweit, Pablo Oliveira Antonino, 
-    </p>  
-
     <p class="authorMe">
         Jasmin Jahić
     </p>
 
     <p class="conferenceAuthors">         
-        , Thomas Kuhn, Peter Liggesmeyer. 
-    </p> 
+        , Varun Kumar, Matthias Jung, Gerhard Wirrer, Norbert Wehn, Thomas Kuhn. 
+    </p>  
 
     <p class="conferenceName">
         ACM European Conference on Software Architecture.
