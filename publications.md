@@ -52,7 +52,7 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
     </p>
 
     <p class="conferenceAuthors">         
@@ -62,7 +62,7 @@
     Jasmin Jahić
     </p>
     <p class="conferenceAuthors">         
-        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
+        , Stefan Kersting, Patrick Mennig, Christian Peper, Friederike Scholten-Buschhoff.
     </p>  
 
     <p class="conferenceName">
