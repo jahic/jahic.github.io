@@ -1,5 +1,8 @@
 ## 2019 
 <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
     <p class="conferenceArticleTitle"> 
         Advanced software development in the era of multicores.
     </p>
