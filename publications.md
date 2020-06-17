@@ -21,15 +21,15 @@
     </p>  
 
     <p class="conferenceName">
-        Report - <a href="https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html">https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html</a>.
+        Euromicro Conference on Digital System Design.
     </p>
 
     <p class="conferencePlace">
-        Kaiserslautern, Germany
+        Portorož, Slovenia
     </p>
 
     <p class="conferenceDate">
-        5 November 2019
+        26 – 28 August 2020
     </p>
 
     <p class="conferenceNote">
