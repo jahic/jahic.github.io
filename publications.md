@@ -3,52 +3,6 @@
 ## Conference and workshop papers
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        DSD2020
-    </p> 
-
-    <p class="conferenceArticleTitle"> 
-        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
-    </p>
-
-    <p class="conferenceAuthors">         
-        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari, 
-    </p>
-    <p class="authorMe">
-    J. JahiÄ‡
-    </p>
-    <p class="conferenceAuthors">         
-        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
-    </p>  
-
-    <p class="conferenceName">
-        Euromicro Conference on Digital System Design.
-    </p>
-
-    <p class="conferencePlace">
-        Portorož, Slovenia
-    </p>
-
-    <p class="conferenceDate">
-        26 – 28 August 2020
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        DOI
-    </a> 
-    | 
-    <a href="#">
-        slides
-    </a>]
-  </p>
-
-
-
-* <p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
         ISSREW 2019
     </p> 
 
