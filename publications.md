@@ -12,13 +12,13 @@
     </p>
 
     <p class="conferenceAuthors">         
-        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,
+        Emilia Cioroaica, Felicita Di Giandomenico, Thomas Kuhn, Francesca Lonetti, Eda Marchetti, 
     </p>
     <p class="authorMe">
     Jasmin Jahić
     </p>
     <p class="conferenceAuthors">         
-        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
+        , Frank Schnicke.
     </p>  
 
     <p class="conferenceName">
