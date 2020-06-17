@@ -4,11 +4,11 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        ISSREW 2019
+        DSD 2020 
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+        The VALU3S ECSEL Project: Verification and Validation of Automated Systems Safety and Security.
     </p>
 
     <p class="conferenceAuthors">         
@@ -22,7 +22,7 @@
     </p>  
 
     <p class="conferenceName">
-        IEEE International Symposium on Software Reliability Engineering Workshops.
+        IEEE Euromicro Conference on Digital System Design.
     </p>
 
     <p class="conferencePlace">
