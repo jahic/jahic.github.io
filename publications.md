@@ -18,7 +18,7 @@
     Jasmin Jahić
     </p>
     <p class="conferenceAuthors">         
-        , Frank Schnicke.
+        , A. Kanak, M. Labayen Esnaola, V. Orani, D. Pereira, L. Pomante, R. Schlick, A. Smrcka, A. Yazici, P. Folkesson, B. Sangchoolie.
     </p>  
 
     <p class="conferenceName">
