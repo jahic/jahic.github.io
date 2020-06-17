@@ -46,6 +46,49 @@
     </a>]
   </p>
 
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        Fraunhofer IESE
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Towards Runtime Monitoring for Malicious Behaviors Detection in Smart Ecosystems.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Jörg Dörr, Bob Fairclough, Jens Henningsen, 
+    </p>
+    <p class="authorMe">
+    Jasmin JahiÄ‡
+    </p>
+    <p class="conferenceAuthors">         
+        , Stefan Kersting, Patrick Mennig, Christian Peper, Friederike Scholten-Buschhoff.
+    </p>  
+
+    <p class="conferenceName">
+        Report - <a href="https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html">https://www.iese.fraunhofer.de/en/innovation_trends/SmartFarming/autonome-Maschinen.html</a>.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany
+    </p>
+
+    <p class="conferenceDate">
+        5 November 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
