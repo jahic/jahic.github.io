@@ -7,7 +7,7 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Rapid Identification of Shared Memory in Multithreaded Embedded Systems with Static Scheduling.
+        Detection of conflicts and inconsistencies between architecture solutions.
     </p>
 
     <p class="authorMe">
@@ -34,6 +34,52 @@
     <br/> 
     [ 
     <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICPP-EMS 2019
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Rapid Identification of Shared Memory in Multithreaded Embedded Systems with Static Scheduling.
+    </p>
+
+    <p class="conferenceAuthors">         
+        Benno Kallweit, Pablo Oliveira Antonino, 
+    </p>  
+
+    <p class="authorMe">
+        Jasmin Jahić
+    </p>
+
+    <p class="conferenceAuthors">         
+        , Thomas Kuhn, Peter Liggesmeyer. 
+    </p> 
+
+    <p class="conferenceName">
+        ACM European Conference on Software Architecture.
+    </p>
+
+    <p class="conferencePlace">
+        Paris, France
+    </p>
+
+    <p class="conferenceDate">
+        September 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1145/3344948.3344980">
         DOI
     </a> 
     | 
