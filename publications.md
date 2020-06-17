@@ -12,7 +12,7 @@
     </p>
 
     <p class="conferenceAuthors">         
-        Emilia Cioroaica, Felicita Di Giandomenico, Thomas Kuhn, Francesca Lonetti, Eda Marchetti, 
+        R. Barbosa, S. Basagiannis, G. Giantamidis, H. Becker, E. Ferrari,  
     </p>
     <p class="authorMe">
     Jasmin Jahić
