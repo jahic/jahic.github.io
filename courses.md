@@ -21,7 +21,7 @@
     </p>
 
     <p class="conferencePlace">
-        Madrid, Spain
+        Madrid, Spain.
     </p>
 
     <p class="conferenceDate">
