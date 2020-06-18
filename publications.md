@@ -48,6 +48,48 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        SAI CC 2020 
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        FERA - A Framework for Critical Assessment of Execution Monitoring based Approaches for Finding Concurrency Bugs.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić, 
+    </p>
+    <p class="conferenceAuthors">         
+        Thomas Bauer, Thomas Kuhn, Norbert Wehn.  
+    </p>
+ 
+
+    <p class="conferenceName">
+        Springer SAI Computing Conference.
+    </p>
+
+    <p class="conferencePlace">
+        London, UK
+    </p>
+
+    <p class="conferenceDate">
+        16 - 17 July 2020
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         Fraunhofer IESE 
     </p> 
 
@@ -156,15 +198,15 @@
     </p> 
     
     <p class="conferenceName">
-        ACM International Workshop on Embedded Multicore Systems.
+        ACM European Conference on Software Architecture.
     </p>
 
     <p class="conferencePlace">
-        Kyoto, Japan
+        Paris, France
     </p>
 
     <p class="conferenceDate">
-        5 August 2019
+        September 2019
     </p>
 
     <p class="conferenceNote">
@@ -198,15 +240,15 @@
     </p>  
 
     <p class="conferenceName">
-        ACM European Conference on Software Architecture.
+        ACM International Workshop on Embedded Multicore Systems.
     </p>
 
     <p class="conferencePlace">
-        Paris, France
+        Kyoto, Japan
     </p>
 
     <p class="conferenceDate">
-        September 2019
+        5 August 2019
     </p>
 
     <p class="conferenceNote">
@@ -228,7 +270,7 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        (Dis)Advantages of Lock-free Synchronization Mechanisms forMulticore Embedded Systems.
+        (Dis)Advantages of Lock-free Synchronization Mechanisms for Multicore Embedded Systems.
     </p>
 
     <p class="authorMe">
