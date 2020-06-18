@@ -56,10 +56,10 @@
     </p>
 
     <p class="authorMe">
-        Jasmin Jahić, 
+        Jasmin Jahić 
     </p>
     <p class="conferenceAuthors">         
-        Thomas Bauer, Thomas Kuhn, Norbert Wehn.  
+        , Thomas Bauer, Thomas Kuhn, Norbert Wehn.  
     </p>
  
 
