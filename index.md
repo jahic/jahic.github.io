@@ -13,7 +13,7 @@
                     <a href="http://www.untz.ba/">University of Tuzla</a>, <a href="https://www.youtube.com/watch?v=hmxV9wWfm0Y">Bosnia and Herzegovina</a>.
         </p>
         <p>
-            Working as a researcher and an assistant project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
+            Working as a researcher and a project manager in Embedded Software department at <a href="https://www.iese.fraunhofer.de/"> Fraunhofer Institute for Experimental Software Engineering</a>. 
             Also, I'm a tutor at <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a> and a coordinator of <a href="http://em-se.eu/">European Master Program in Software Engineering</a> for <a href="https://www.uni-kl.de/en/">University of Kaiserslautern</a>.
         </p>  
         <p>
