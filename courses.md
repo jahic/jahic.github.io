@@ -1,3 +1,47 @@
+## 2021
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Handling Concurrency in Embedded Software System from Architectural Point of View.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">
+    , Alexander Mark Diewald.
+     </p>  
+
+    <p class="conferenceName">
+        HiPEAC.
+    </p>
+
+    <p class="conferencePlace">
+        Budapest, Hungary.
+    </p>
+
+    <p class="conferenceDate">
+        18 - 20 January 2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
 ## 2020
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
