@@ -201,6 +201,8 @@
     </table>
 </div>
 
+<br/>
+
 ## Bachelor projects:
 <div id="draftsTopics">
     <table class="partIIProjects">
