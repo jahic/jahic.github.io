@@ -1,7 +1,7 @@
 ## Bachelor projects:
 <div id="draftsTopics">
     <table class="partIIProjects">
-    <tr>
+    <tr class="title">
         <td>
             <b>Topic</b>
         </td>
@@ -78,7 +78,7 @@
 ## Master thesis:
 <div id="draftsTopics"> 
     <table class="partIIProjects">
-    <tr>
+    <tr class="title">
         <td>
             <b>Topic</b>
         </td>

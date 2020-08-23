@@ -103,3 +103,9 @@ nav
   background-color: black;
   color: white;
 }
+
+#draftsTopics table tr.title
+{
+  background-color: black;
+  color: white;
+}
