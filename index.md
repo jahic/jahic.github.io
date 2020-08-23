@@ -21,6 +21,7 @@
                 improving living conditions using low-power embedded systems, and application of AI in Software Engineering.
         </p>      
     </div>
+    <h2>Quotes I find interesting:</h2>
 </div>
 
 
@@ -29,8 +30,9 @@
 
 
 
-Quotes
+
 
 ## News
-# Title
-...
+--- 09.08.2020: Our paper "State of the Practice Survey: Predicting the Influence of AI Adoption on System Software Architecture in Traditional Embedded Systems" is accepted at Context-aware, Autonomous and Smart Architecture Workshop co-located with the 14th European Conference on Software Architecture 2020 (ECSA 2020).
+
+--- 02.08.2020: Tutorial proposal “Handling Concurrency in Embedded Software System from Architectural Point of View” got accepted to #HiPEAC21 conference.
