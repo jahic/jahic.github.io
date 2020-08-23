@@ -44,6 +44,27 @@
   
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        [REVIEWER]
+    </p>
+
+    <p class="conferenceName">
+        International Workshop on Embedded Multicore Systems (ICPP-EMS 2020).
+    </p>
+
+    <p class="conferencePlace">
+        Edmonton, AB, Canada.
+    </p>
+
+    <p class="conferenceDate">
+        2020.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+  </p>
+  
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         [WEB CHAIR]
     </p>
 
