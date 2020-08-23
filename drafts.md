@@ -94,6 +94,34 @@
     </tr>
     <tr>
         <td>
+            Automatic generation of Synchronization Primitives for Multithreaded Programs 
+        </td>
+        <td>
+            <a href="doc/topics/master/autoGenSynch.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Visualization approach for Expressing Synchronization Intentions
+        </td>
+        <td>
+            <a href="doc/topics/master/visSynch.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+    <tr>
+        <td>
             Approach for predicting Effects of adopting Machine Learning in traditional Embedded Systems on their System Architecture
         </td>
         <td>
