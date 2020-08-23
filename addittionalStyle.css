@@ -90,7 +90,7 @@ nav
 #draftsTopics table
 {
   width:min-content;
-  width: 10px;
+  width: 200px;
   text-align: left; 
   vertical-align: left;
 }
