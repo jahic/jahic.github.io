@@ -4,6 +4,48 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        ECSA 2020
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        State of the Practice Survey: Predicting the Influence of AI Adoption on System Software Architecture in Traditional Embedded Systems.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahić 
+    </p>
+    <p class="conferenceAuthors">         
+        , Robin Roitsch.  
+    </p>
+ 
+
+    <p class="conferenceName">
+        Context-aware, Autonomous and Smart Architecture Workshop (CASA) at European Conference on Software Architecture (ECSA).
+    </p>
+
+    <p class="conferencePlace">
+        L'aquila, Italy
+    </p>
+
+    <p class="conferenceDate">
+        14 - 18 September 2020
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         DSD 2020 
     </p> 
 
