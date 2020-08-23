@@ -1,80 +1,3 @@
-## Bachelor projects:
-<div id="draftsTopics">
-    <table class="partIIProjects">
-    <tr class="title">
-        <td>
-            <b>Topic</b>
-        </td>
-        <td>
-            <b>Description</b>
-        </td>
-        <td>
-            <b>Student</b>
-        </td>
-        <td>
-            <b>Status</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Framework for Targeted Tracing of Software Execution with Debug Symbols
-        </td>
-        <td>
-            <a href="#">PDF</a>
-        </td>
-        <td>
-            
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-        <tr>
-        <td>
-            GitHub Application for Continuous Engineering
-        </td>
-        <td>
-            <a href="#">PDF</a>
-        </td>
-        <td>
-            
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-        
-    <tr>
-        <td>
-            Improving Performance of LLVM Interpreter
-        </td>
-        <td>
-            <a href="#">PDF</a>
-        </td>
-        <td>
-            
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Support for LLVM Interpreter to run multithreaded applications
-        </td>
-        <td>
-            <a href="#">PDF</a>
-        </td>
-        <td>
-            
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-    </table>
-</div>
-
 ## Master thesis:
 <div id="draftsTopics"> 
     <table class="partIIProjects">
@@ -273,6 +196,83 @@
         </td>
         <td class="completed">
             COMPLETED
+        </td>
+    </tr>
+    </table>
+</div>
+
+## Bachelor projects:
+<div id="draftsTopics">
+    <table class="partIIProjects">
+    <tr class="title">
+        <td>
+            <b>Topic</b>
+        </td>
+        <td>
+            <b>Description</b>
+        </td>
+        <td>
+            <b>Student</b>
+        </td>
+        <td>
+            <b>Status</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Framework for Targeted Tracing of Software Execution with Debug Symbols
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+        <tr>
+        <td>
+            GitHub Application for Continuous Engineering
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+        
+    <tr>
+        <td>
+            Improving Performance of LLVM Interpreter
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Support for LLVM Interpreter to run multithreaded applications
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
         </td>
     </tr>
     </table>
