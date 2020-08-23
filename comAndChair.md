@@ -12,6 +12,12 @@ Components & Systems (ECS) Embedded Software and Beyond (Continuous Integration 
     </li>
 </ul>
 
-o 
-o 
+## 2019
+<ul>
+    <li>
+    Web chair, International Conference on Embedded Computer Systems: Architectures, Modeling And Simulation (SAMOS)
+    </li>
+</ul>
 
+## 2018
+    [WEB CHAIR] International Conference on Embedded Computer Systems: Architectures, Modeling And Simulation (SAMOS)
