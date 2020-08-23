@@ -89,7 +89,8 @@ nav
 
 #draftsTopics table
 {
-  width: min-content;
+  width:min-content;
+  width: 1px;
 }
 
 #draftsTopics table td.available
