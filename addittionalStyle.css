@@ -87,6 +87,11 @@ nav
     margin-left: 10px;
 }
 
+#draftsTopics table
+{
+  width: min-content;
+}
+
 #draftsTopics table td.available
 {
   background-color: green;
