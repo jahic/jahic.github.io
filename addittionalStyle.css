@@ -91,6 +91,14 @@ nav
 {
   width:min-content;
   width: 1px;
+  text-align: left; 
+  vertical-align: left;
+}
+
+#draftsTopics table td
+{
+  text-align: left; 
+  vertical-align: left;
 }
 
 #draftsTopics table td.available
