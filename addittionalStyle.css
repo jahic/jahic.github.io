@@ -86,3 +86,15 @@ nav
     /*margin:initial;*/
     margin-left: 10px;
 }
+
+#draftsTopics table td.available
+{
+  background-color: green;
+  color: white;
+}
+
+#draftsTopics table td.completed
+{
+  background-color: black;
+  color: white;
+}
