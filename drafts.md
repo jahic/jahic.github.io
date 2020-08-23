@@ -20,7 +20,7 @@
             Framework for Targeted Tracing of Software Execution with Debug Symbols
         </td>
         <td>
-            <a href="doc/project/targetetTracing.pdf">PDF</a>
+            <a href="#">PDF</a>
         </td>
         <td>
             
@@ -34,7 +34,7 @@
             GitHub Application for Continuous Engineering
         </td>
         <td>
-            <a href="doc/project/githubApp.pdf">PDF</a>
+            <a href="#">PDF</a>
         </td>
         <td>
             
@@ -49,7 +49,7 @@
             Improving Performance of LLVM Interpreter
         </td>
         <td>
-            <a href="doc/project/llvmIntPerf.pdf">PDF</a>
+            <a href="#">PDF</a>
         </td>
         <td>
             
@@ -63,7 +63,7 @@
             Support for LLVM Interpreter to run multithreaded applications
         </td>
         <td>
-            <a href="doc/project/llvmIntMultithreaded.pdf">PDF</a>
+            <a href="#">PDF</a>
         </td>
         <td>
             
