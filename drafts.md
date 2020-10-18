@@ -68,13 +68,44 @@
             <a href="doc/topics/master/visSynch.pdf">PDF</a>
         </td>
         <td>
-            
+            Muhammad Zeeshan
         </td>
         <td class="available">
             AVAILABLE
         </td>
     </tr>
+
     <tr>
+        <td>
+            A Methodology for adopting Continuous Integration in Practice based on Architectural Design Patterns
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Fahd Helwani
+        </td>
+        <td class="inProgress">
+            IN PROGRESS
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            Continuous Testing Approach for Finding Data Races in Linux-based Industrial Embedded Systems
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Volkan Doganci
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+    
+<tr>
         <td>
             Approach for predicting Effects of adopting Machine Learning in traditional Embedded Systems on their System Architecture
         </td>
@@ -125,7 +156,7 @@
             <a href="#">PDF</a>
         </td>
         <td>
-            
+            Gurpreet Kaur
         </td>
         <td class="completed">
             COMPLETED
@@ -195,7 +226,7 @@
             <a href="#">PDF</a>
         </td>
         <td>
-
+            Prasanna V Kannan
         </td>
         <td class="completed">
             COMPLETED
@@ -223,7 +254,7 @@
             <a href="#">PDF</a>
         </td>
         <td>
-
+            Milosz Pellowski
         </td>
         <td class="completed">
             COMPLETED
