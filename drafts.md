@@ -15,6 +15,37 @@
             <b>Status</b>
         </td>
     </tr>
+
+    <tr>
+        <td>
+            Testing performance of Microservices on Edge 
+        </td>
+        <td>
+            <a href="doc/topics/master/perfMicroserviceEdge.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            AI assisted Software Engineering 
+        </td>
+        <td>
+            <a href="doc/topics/master/AISW.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+    
     <tr>
         <td>
             Automatic generation of Synchronization Primitives for Multithreaded Programs 
