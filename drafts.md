@@ -60,6 +60,21 @@
             AVAILABLE
         </td>
     </tr>
+
+<tr>
+        <td>
+            Visualization approach for Expressing Synchronization Intentions
+        </td>
+        <td>
+            <a href="doc/topics/master/visSynch.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
     
     <tr>
         <td>
@@ -76,20 +91,7 @@
         </td>
     </tr>
 
-<tr>
-        <td>
-            Visualization approach for Expressing Synchronization Intentions
-        </td>
-        <td>
-            <a href="doc/topics/master/visSynch.pdf">PDF</a>
-        </td>
-        <td>
-            Muhammad Zeeshan
-        </td>
-        <td class="completed">
-            COMPLETED
-        </td>
-    </tr>
+    
 
     <tr>
         <td>
@@ -165,13 +167,27 @@
     </tr>
     <tr>
         <td>
-            Interactive design space exploration of multithreaded software deployment properties with visualization techniques
+            Extracting Concurrency-Related Architectural Properties from Software Implementation
         </td>
         <td>
             <a href="#">PDF</a>
         </td>
         <td>
             Monireh Pourjafarian
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+<tr>
+        <td>
+            Interactive design space exploration of multithreaded software deployment properties with visualization techniques
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Muhammad Zeeshan
         </td>
         <td class="completed">
             COMPLETED
