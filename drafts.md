@@ -60,21 +60,7 @@
             AVAILABLE
         </td>
     </tr>
-    <tr>
-        <td>
-            Visualization approach for Expressing Synchronization Intentions
-        </td>
-        <td>
-            <a href="doc/topics/master/visSynch.pdf">PDF</a>
-        </td>
-        <td>
-            Muhammad Zeeshan
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-
+    
     <tr>
         <td>
             A Methodology for adopting Continuous Integration in Practice based on Architectural Design Patterns
@@ -87,6 +73,21 @@
         </td>
         <td class="inProgress">
             IN PROGRESS
+        </td>
+    </tr>
+
+<tr>
+        <td>
+            Visualization approach for Expressing Synchronization Intentions
+        </td>
+        <td>
+            <a href="doc/topics/master/visSynch.pdf">PDF</a>
+        </td>
+        <td>
+            Muhammad Zeeshan
+        </td>
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
 
