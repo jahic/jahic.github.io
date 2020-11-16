@@ -61,7 +61,7 @@
         </td>
     </tr>
 
-<tr>
+    <tr>
         <td>
             Visualization approach for Expressing Synchronization Intentions
         </td>
@@ -69,13 +69,11 @@
             <a href="doc/topics/master/visSynch.pdf">PDF</a>
         </td>
         <td>
-            
         </td>
         <td class="available">
             AVAILABLE
         </td>
     </tr>
-    
     <tr>
         <td>
             A Methodology for adopting Continuous Integration in Practice based on Architectural Design Patterns
@@ -90,9 +88,6 @@
             IN PROGRESS
         </td>
     </tr>
-
-    
-
     <tr>
         <td>
             Continuous Testing Approach for Finding Data Races in Linux-based Industrial Embedded Systems
@@ -107,8 +102,7 @@
             COMPLETED
         </td>
     </tr>
-    
-<tr>
+    <tr>
         <td>
             Approach for predicting Effects of adopting Machine Learning in traditional Embedded Systems on their System Architecture
         </td>
@@ -122,7 +116,7 @@
             COMPLETED
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>
             Generation of Test Cases in Multithreaded Software that Satisfy Modified Condition/Decision Coverage (MC/DC)
         </td>
@@ -135,8 +129,7 @@
         <td class="completed">
             COMPLETED
         </td>
-    </tr>
-        
+    </tr>     
     <tr>
         <td>
             Guidelines for migration of concurrent software with lock synchronization primitives to lock-free software
@@ -179,7 +172,7 @@
             COMPLETED
         </td>
     </tr>
-<tr>
+    <tr>
         <td>
             Interactive design space exploration of multithreaded software deployment properties with visualization techniques
         </td>
