@@ -4,7 +4,7 @@
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="tutorials/hipeac2021.md">Handling Concurrency in Embedded Software System from Architectural Point of View</a>.
+        <a href="hipeac2021">Handling Concurrency in Embedded Software System from Architectural Point of View</a>.
     </p>
 
     <p class="conferenceAuthors">         
