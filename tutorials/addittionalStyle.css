@@ -1,0 +1,125 @@
+h3 
+{
+    display: inline-block;
+}
+
+p
+{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+nav
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.authorMe
+{
+    display: inline;
+    text-decoration: underline;
+}
+
+.conferencePaperInput
+{
+    display: inline;    
+}
+
+.conferenceAbbreviation
+{
+    font-weight: bold;
+    display: inline;
+}
+
+.conferenceArticleTitle
+{
+    display: inline;
+}
+.conferenceAuthors
+{
+    display: inline;
+}
+
+.conferenceName
+{
+    font-style: italic;
+    display: inline;
+}
+.conferencePlace
+{
+    display: inline;
+}
+.conferenceDate
+{
+    display: inline;
+}
+.conferenceNote
+{
+    display: inline;
+}
+
+#bio_wrapper
+{
+    width:100%;
+    float: left;
+    /*vertical-align:initial;*/
+    border:none;
+    margin:initial;
+}
+
+#bio_photo
+{
+    width:40%;
+    float: left;
+    /*vertical-align:initial;*/
+    border:none;
+    margin:initial;
+}
+
+#bio_basic_info
+{
+    width:45%;
+    float: left;
+    /*vertical-align:initial;*/
+    border:none;
+    /*margin:initial;*/
+    margin-left: 10px;
+}
+
+#draftsTopics table
+{
+  /*width: 200px;
+  text-align: left; 
+  vertical-align: left;*/
+}
+
+#draftsTopics table td
+{
+  text-align: left; 
+  vertical-align: left;
+}
+
+#draftsTopics table td.available
+{
+  background-color: green;
+  color: white;
+}
+
+#draftsTopics table td.inProgress
+{
+  background-color: orange;
+  color: white;
+}
+
+#draftsTopics table td.completed
+{
+  background-color: black;
+  color: white;
+}
+
+#draftsTopics table tr.title
+{
+  background-color: black;
+  color: white;
+}
