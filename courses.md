@@ -42,6 +42,48 @@
     </a>]
   </p>
 
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Setting up Efficient Development Environment for Continuous Software Engineering
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Norfolk outreach.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
 ## 2020
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -86,6 +128,91 @@
     </a>]
   </p>
 
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Concurrent and Distributed Systems
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Michaelmas Term
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Computer Design
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Michaelmas Term
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
 ## 2019 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
