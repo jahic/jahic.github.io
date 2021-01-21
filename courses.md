@@ -44,7 +44,7 @@
 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [TUTOR]
+        [SUPERVISOR]
     </p>
     <p class="conferenceArticleTitle"> 
         Setting up Efficient Development Environment for Continuous Software Engineering
@@ -130,7 +130,7 @@
 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [TUTOR]
+        [SUPERVISOR]
     </p>
     <p class="conferenceArticleTitle"> 
         Concurrent and Distributed Systems
@@ -173,7 +173,7 @@
 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [TUTOR]
+        [SUPERVISOR]
     </p>
     <p class="conferenceArticleTitle"> 
         Computer Design
