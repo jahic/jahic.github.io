@@ -155,7 +155,7 @@
     </p>
 
     <p class="conferenceDate">
-        Michaelmas Term
+        Michaelmas Term.
     </p>
 
     <p class="conferenceNote">
@@ -198,7 +198,7 @@
     </p>
 
     <p class="conferenceDate">
-        Michaelmas Term
+        Michaelmas Term.
     </p>
 
     <p class="conferenceNote">
