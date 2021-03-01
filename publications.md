@@ -2,6 +2,49 @@
 
 ## Conference and workshop papers
 
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICSA 2021
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Knowledge-based Adequacy assessment Approach to support AI adoption.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahic
+    </p>
+    <p class="conferenceAuthors">         
+        , Robin Roitsch 
+    </p>
+    <p class="conferenceAuthors">         
+        , Lukasz Grzymkowski.  
+    </p>
+ 
+    <p class="conferenceName">
+        IEEE International Conference on Software Architecture.
+    </p>
+
+    <p class="conferencePlace">
+        Stuttgart, Germany
+    </p>
+
+    <p class="conferenceDate">
+        22 - 26 March 2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
