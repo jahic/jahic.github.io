@@ -5,6 +5,28 @@
     </p>
 
     <p class="conferenceName">
+        SAI Future Technologies Conference (FTC).
+    </p>
+
+    <p class="conferencePlace">
+        London, UK.
+    </p>
+
+    <p class="conferenceDate">
+        2021.
+    </p>
+
+    <p class="conferenceNote">
+        <a href="https://saiconference.com/FTC">https://saiconference.com/FTC</a>
+    </p>
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [REVIEWER]
+    </p>
+
+    <p class="conferenceName">
         SAI Computing Conference.
     </p>
 
@@ -17,6 +39,7 @@
     </p>
 
     <p class="conferenceNote">
+        <a href="https://saiconference.com/Computing">https://saiconference.com/Computing</a>
     </p>
   </p>
 
