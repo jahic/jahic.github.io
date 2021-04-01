@@ -43,6 +43,10 @@
     | 
     <a href="#">
         slides
+    </a>
+    | 
+    <a href="https://www.youtube.com/watch?v=DBL9vqPotUI">
+        video
     </a>]
   </p>
 
