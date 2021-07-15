@@ -26,7 +26,7 @@
     </p>
 
     <p class="conferencePlace">
-        Stuttgart, Germany
+        Stuttgart, Germany (virtual)
     </p>
 
     <p class="conferenceDate">
