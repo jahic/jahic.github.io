@@ -4,6 +4,51 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        ICPP-EMS 2021
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        ArchViMP – a Framework for Automatic Extraction of Concurrency-related Software Architectural Properties.
+    </p>
+
+
+
+    <p class="conferenceAuthors">         
+        Monireh Pourjafarian,  
+    </p>  
+
+    <p class="authorMe">
+        Jasmin Jahic.
+    </p>
+
+    <p class="conferenceName">
+        ACM International Workshop on Embedded Multicore Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Chicago, Illinois, USA
+    </p>
+
+    <p class="conferenceDate">
+        9 August 2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         GAUC 2021
     </p> 
 
@@ -15,7 +60,7 @@
         Jasmin Jahic
     </p>
     <p class="conferenceAuthors">         
-        , Zina Milašien? 
+        , Zina Milasiene 
     </p>
     <p class="conferenceAuthors">         
         , Rasha Abu Qasem  
