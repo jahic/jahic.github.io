@@ -4,6 +4,63 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        GAUC 2021
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Edge Continuum as a Backbone of a new Digital Economy System.
+    </p>
+
+    <p class="authorMe">
+        Jasmin Jahic
+    </p>
+    <p class="conferenceAuthors">         
+        , Zina Milašien? 
+    </p>
+    <p class="conferenceAuthors">         
+        , Rasha Abu Qasem  
+    </p>
+    <p class="conferenceAuthors">         
+        , Ali Balador  
+    </p>
+    <p class="conferenceAuthors">         
+        , Minna Isomursu 
+    </p>
+    <p class="conferenceAuthors">         
+        , Oksana Vilne. 
+    </p>
+
+    <p class="conferenceName">
+        Pathways to net zero emissions and carbon/climate neutrality.
+    </p>
+
+    <p class="conferencePlace">
+        Virtual Conference
+    </p>
+
+    <p class="conferenceDate">
+        29 - 30 June 2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>
+    | 
+    <a href="http://conference.gauc.net/keynotes/ecodes-edge-continuum-as-a-backbone-of-a-new-digital-economy-system/">
+        video
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         ICSA 2021
     </p> 
 
