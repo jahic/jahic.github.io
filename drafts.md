@@ -18,21 +18,6 @@
 
     <tr>
         <td>
-            Testing performance of Microservices on Edge 
-        </td>
-        <td>
-            <a href="doc/topics/master/perfMicroserviceEdge.pdf">PDF</a>
-        </td>
-        <td>
-            
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-
-    <tr>
-        <td>
             AI assisted Software Engineering 
         </td>
         <td>
@@ -74,6 +59,22 @@
             AVAILABLE
         </td>
     </tr>
+	
+	<tr>
+        <td>
+            Testing performance of Microservices on Edge 
+        </td>
+        <td>
+            <a href="doc/topics/master/perfMicroserviceEdge.pdf">PDF</a>
+        </td>
+        <td>
+            Raghad Matar
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
     <tr>
         <td>
             A Methodology for adopting Continuous Integration in Practice based on Architectural Design Patterns
@@ -84,8 +85,8 @@
         <td>
             Fahd Helwani
         </td>
-        <td class="inProgress">
-            IN PROGRESS
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
     <tr>
