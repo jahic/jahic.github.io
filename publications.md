@@ -1,5 +1,42 @@
 ## Journals
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        APEM
+    </p> 
 
+    <p class="conferenceArticleTitle"> 
+        Optimal path planning of a disinfection mobile robot against COVID-19 in a ROS-based research platform.
+    </p>
+    <p class="conferenceAuthors">         
+        Banjanovic-Mehmedovic, L.,
+    </p>
+    <p class="conferenceAuthors">         
+        Karabegovic, I., 
+    </p>
+    <p class="authorMe">
+        Jasmin J.,
+    </p>
+    <p class="conferenceAuthors">         
+        Omercic, M.
+    </p>
+
+    <p class="conferenceName">
+        Advances in Production Engineering & Management
+    </p>
+
+    <p class="conferencePlace">
+        Volume 16 | Number 4 | December 2021 | pp 405–417
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.14743/apem2021.4.409">
+        DOI
+    </a> 
+    ]
+  </p>
 
 
 ## Conference and workshop papers
