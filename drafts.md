@@ -59,8 +59,8 @@
             AVAILABLE
         </td>
     </tr>
-
-    <tr>
+	
+	<tr>
         <td>
             Testing performance of Microservices on Edge 
         </td>
@@ -74,7 +74,7 @@
             COMPLETED
         </td>
     </tr>
-
+	
     <tr>
         <td>
             A Methodology for adopting Continuous Integration in Practice based on Architectural Design Patterns
