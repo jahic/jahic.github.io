@@ -1,5 +1,51 @@
 ## Journals
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        
+    </p> 
 
+    <p class="conferenceArticleTitle"> 
+        
+    </p>
+
+    <p class="conferenceAuthors">         
+        
+    </p>
+    <p class="conferenceAuthors">         
+         
+    </p>
+	<p class="authorMe">
+        Jasmin Jahic
+    </p>
+ 
+    <p class="conferenceName">
+        
+    </p>
+
+    <p class="conferencePlace">
+        
+    </p>
+
+    <p class="conferenceDate">
+        
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        
+    </a>
+    | 
+    <a href="">
+        
+    </a>]
+  </p>
 
 
 ## Conference and workshop papers
