@@ -12,26 +12,26 @@
         Christoph Dropmann
     </p>
 	<p class="authorMe">
-        Jasmin Jahic
+        , Jasmin Jahic
     </p>
     <p class="conferenceAuthors">         
-        Mikkel Liisberg 
+        , Mikkel Liisberg 
     </p>
 
     <p class="conferenceAuthors">         
-        Peter Munk
+        , Peter Munk
     </p> 
 	<p class="conferenceAuthors">         
-        Christian Peper
+        , Christian Peper
     </p> 
 	<p class="conferenceAuthors">         
-        Markus Schweizer
+        , Markus Schweizer
     </p> 
 	<p class="conferenceAuthors">         
-        Eike Thaden
+        , Eike Thaden
     </p> 
 	<p class="conferenceAuthors">         
-        Denis Uecker
+        , Denis Uecker
     </p> 
     <p class="conferenceName">
 
@@ -64,16 +64,16 @@
         Banjanovic-Mehmedovic, L.
     </p>
     <p class="conferenceAuthors">         
-        Karabegovic, I. 
+        , Karabegovic, I. 
     </p>
 	<p class="authorMe">
-        Jasmin J.
+        , Jasmin J.
     </p>
     <p class="conferenceAuthors">         
-        Omercic, M.
+        , Omercic, M.
     </p> 
     <p class="conferenceName">
-        Advances in Production Engineering & Management
+        , Advances in Production Engineering & Management
     </p>
 
     <p class="conferencePlace">
@@ -96,6 +96,47 @@
 
 
 ## Conference and workshop papers
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICPP-EMS 2021
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        ArchViMP – a Framework for Automatic Extraction of Concurrency-related Software Architectural Properties.
+    </p>
+	
+    <p class="conferenceAuthors">         
+        Monireh Pourjafarian 
+    </p>
+    <p class="authorMe">
+        , Jasmin Jahic
+    </p>
+ 
+	<p class="conferenceName">
+        ACM International Workshop on Embedded Multicore Systems.
+    </p>
+
+    <p class="conferencePlace">
+        Chicago, Illinois, USA
+    </p>
+
+    <p class="conferenceDate">
+        9 August 2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1145/3458744.3473349">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
