@@ -1,3 +1,55 @@
+## Patents
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Software lockstep mechanism - A method and device for configuring an execution device and for recognizing an operating state of the same
+    </p>
+
+    <p class="conferenceAuthors">         
+        Christoph Dropmann
+    </p>
+	<p class="authorMe">
+        Jasmin Jahic
+    </p>
+    <p class="conferenceAuthors">         
+        Mikkel Liisberg 
+    </p>
+
+    <p class="conferenceAuthors">         
+        Peter Munk
+    </p> 
+	<p class="conferenceAuthors">         
+        Christian Peper
+    </p> 
+	<p class="conferenceAuthors">         
+        Markus Schweizer
+    </p> 
+	<p class="conferenceAuthors">         
+        Eike Thaden
+    </p> 
+	<p class="conferenceAuthors">         
+        Denis Uecker
+    </p> 
+    <p class="conferenceName">
+
+    </p>
+
+    <p class="conferencePlace">
+        Patent: US020190026198A1
+    </p>
+
+    <p class="conferenceDate">
+        July 2018
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+  </p>
+ 
 ## Journals
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
