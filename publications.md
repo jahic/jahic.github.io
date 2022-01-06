@@ -9,15 +9,17 @@
     </p>
 
     <p class="conferenceAuthors">         
-        
+        Banjanovic-Mehmedovic, L.
     </p>
     <p class="conferenceAuthors">         
-         
+        Karabegovic, I. 
     </p>
 	<p class="authorMe">
         Jasmin J.
     </p>
- 
+    <p class="conferenceAuthors">         
+        Omercic, M.
+    </p> 
     <p class="conferenceName">
         Advances in Production Engineering & Management
     </p>
