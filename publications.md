@@ -1,11 +1,11 @@
 ## Journals
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        
+        APEM
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        
+        Optimal path planning of a disinfection mobile robot against COVID-19 in a ROS-based research platform
     </p>
 
     <p class="conferenceAuthors">         
@@ -15,19 +15,19 @@
          
     </p>
 	<p class="authorMe">
-        Jasmin Jahic
+        Jasmin J.
     </p>
  
     <p class="conferenceName">
-        
+        Advances in Production Engineering & Management
     </p>
 
     <p class="conferencePlace">
-        
+        Volume 16, Number 4, pp 405–417
     </p>
 
     <p class="conferenceDate">
-        
+        December 2021
     </p>
 
     <p class="conferenceNote">
