@@ -36,17 +36,10 @@
     </p>
     <br/> 
     [ 
-    <a href="#">
+    <a href="https://doi.org/10.14743/apem2021.4.409">
         DOI
     </a> 
-    | 
-    <a href="#">
-        
-    </a>
-    | 
-    <a href="">
-        
-    </a>]
+	]
   </p>
 
 
