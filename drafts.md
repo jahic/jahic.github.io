@@ -26,8 +26,8 @@
         <td>
             
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="inProgress">
+            IN PROGRESS
         </td>
     </tr>
     
@@ -41,8 +41,8 @@
         <td>
             
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="inProgress">
+            IN PROGRESS
         </td>
     </tr>
 
@@ -293,6 +293,48 @@
             <b>Status</b>
         </td>
     </tr>
+	<tr>
+        <td>
+            Enhancement of Lockset Eraser algorithm for finding concurrency bugs
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	<tr>
+        <td>
+            Modelling of concurrency-relevant architectural decisions in Agile
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	<tr>
+        <td>
+            Continuous testing of concurrent software
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
     <tr>
         <td>
             Framework for Targeted Tracing of Software Execution with Debug Symbols
@@ -332,8 +374,8 @@
         <td>
             
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
     <tr>
@@ -346,8 +388,8 @@
         <td>
             
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
     </table>
