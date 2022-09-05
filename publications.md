@@ -99,32 +99,150 @@
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        ICPP-EMS 2021
+        CppCon 2022
     </p> 
 
     <p class="conferenceArticleTitle"> 
-        Optimal path planning of a disinfection mobile robot against COVID-19 in a ROS-based research platform.
+        1.	Architecting Multithreaded Robotics Applications in C++
+    </p>
+	<p class="conferenceAuthors">         
+        Arian Ajdari
+    </p>
+	 <p class="authorMe">
+        Jasmin Jahic
+    </p>
+
+
+	<p class="conferenceName">
+        CppCon, the C++ conference 
+    </p>
+
+    <p class="conferencePlace">
+		Aurora, Colorado, United States
+    </p>
+
+    <p class="conferenceDate">
+        2022
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        SAMOS 2022 
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        CASA: An Approach for exposing and documenting Concurrency-related Software Properties
+    </p>
+	 <p class="authorMe">
+        Jasmin Jahic, 
+    </p>
+    <p class="conferenceAuthors">         
+        Volkan Doganci, Hubert Gehring
+    </p>
+
+	<p class="conferenceName">
+        Springer’s International Conference on Embedded Computer Systems Architectures Modelling and Simulation 
+    </p>
+
+    <p class="conferencePlace">
+		Samos, Greece
+    </p>
+
+    <p class="conferenceDate">
+        2022
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.1007/978-3-031-15074-6_9">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        Integration of artificial intelligence in Industry 4.0: challenges, paradigms and applications
     </p>
 	
     <p class="conferenceAuthors">         
-        Lejla Banjanovic-Mehmedovic, Isak Karabegovic
+        Lejla Banjanovic-Mehmedovic
     </p>
     <p class="authorMe">
         , Jasmin Jahic
     </p>
-     <p class="conferenceAuthors">         
-        M. Omercic
-    </p>
 	<p class="conferenceName">
-        Advances in Production Engineering & Management, Volume 16 | Number 4 | December 2021 | pp 405–417
+        Application of Industry 4.0 - An Opportunity for a New Step Forward in All Industrial
     </p>
 
     <p class="conferencePlace">
-
+		Sarajevo, Bosnia and Herzegovina
     </p>
 
     <p class="conferenceDate">
-        2021
+        2022
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.5644/PI2022.202.22">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICSA 2022
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
+        ACIA: A Methodology for identification of Architectural Design Patterns that support Continuous Integration based on Continuous Assessment
+    </p>
+	
+    <p class="conferenceAuthors">         
+        Fahd Helwani
+    </p>
+    <p class="authorMe">
+        , Jasmin Jahic
+    </p>
+	<p class="conferenceName">
+        IEEE International Workshop on the Foundations of Infrastructure Specification and Testing at ICSA
+    </p>
+
+    <p class="conferencePlace">
+		Honolulu, Hawaii, HI, United States
+    </p>
+
+    <p class="conferenceDate">
+        2022
     </p>
 
     <p class="conferenceNote">
@@ -139,6 +257,8 @@
         slides
     </a>]
   </p>
+
+
 
 * <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
