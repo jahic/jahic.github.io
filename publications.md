@@ -103,6 +103,49 @@
     </p> 
 
     <p class="conferenceArticleTitle"> 
+        Optimal path planning of a disinfection mobile robot against COVID-19 in a ROS-based research platform.
+    </p>
+	
+    <p class="conferenceAuthors">         
+        Lejla Banjanovic-Mehmedovic, Isak Karabegovic
+    </p>
+    <p class="authorMe">
+        , Jasmin Jahic
+    </p>
+     <p class="conferenceAuthors">         
+        M. Omercic
+    </p>
+	<p class="conferenceName">
+        Advances in Production Engineering & Management, Volume 16 | Number 4 | December 2021 | pp 405–417
+    </p>
+
+    <p class="conferencePlace">
+
+    </p>
+
+    <p class="conferenceDate">
+        2021
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://doi.org/10.14743/apem2021.4.409">
+        DOI
+    </a> 
+    | 
+    <a href="#">
+        slides
+    </a>]
+  </p>
+
+* <p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        ICPP-EMS 2021
+    </p> 
+
+    <p class="conferenceArticleTitle"> 
         ArchViMP – a Framework for Automatic Extraction of Concurrency-related Software Architectural Properties.
     </p>
 	
