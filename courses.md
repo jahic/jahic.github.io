@@ -1,3 +1,52 @@
+## 2023
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="hipeac2023">Handling Concurrency in Heterogeneous Embedded Software Systems from Architectural Point of View</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">
+    , Victor Perez, Joe Todd.
+     </p>  
+
+    <p class="conferenceName">
+        HiPEAC.
+    </p>
+
+    <p class="conferencePlace">
+        Toulouse, France.
+    </p>
+
+    <p class="conferenceDate">
+        16 - 18 January 2023
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+
+
 ## 2021
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
