@@ -18,6 +18,35 @@
 	
 	<tr>
         <td>
+            Architecture-centric Source Code Organisation Control
+        </td>
+        <td>
+            <a href="doc/topics/master/architectureSourceCodeOrganisation.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Framework for Continuous and Targeted Tracing of Software Execution
+        </td>
+        <td>
+            <a href="doc/topics/master/targetedTracing.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+
+	
+	<tr>
+        <td>
             Visualization approach for Expressing Synchronization Intentions
         </td>
         <td>
