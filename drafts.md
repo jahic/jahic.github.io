@@ -44,6 +44,21 @@
             IN PROGRESS
         </td>
     </tr>
+	
+	<tr>
+        <td>
+            Capturing Concurrency Aspects of Software Under Development to Reduce Testing Effort
+        </td>
+        <td>
+            <a href="doc/topics/master/reduceConcurrencyTestingEffort.pdf">PDF</a>
+        </td>
+        <td>
+            
+        </td>
+        <td class="inProgress">
+            IN PROGRESS
+        </td>
+    </tr>
     
     <tr>
         <td>
@@ -152,6 +167,20 @@
             COMPLETED
         </td>
     </tr>
+	<tr>
+        <td>
+            Extracting Concurrency-Related Architectural Properties from Software Implementation
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Monireh Pourjafarian
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
     <tr>
         <td>
             Generation of Test Cases in Multithreaded Software that Satisfy Modified Condition/Decision Coverage (MC/DC)
@@ -189,20 +218,6 @@
         </td>
         <td>
             Gurpreet Kaur
-        </td>
-        <td class="completed">
-            COMPLETED
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Extracting Concurrency-Related Architectural Properties from Software Implementation
-        </td>
-        <td>
-            <a href="#">PDF</a>
-        </td>
-        <td>
-            Monireh Pourjafarian
         </td>
         <td class="completed">
             COMPLETED
@@ -372,7 +387,7 @@
     </tr>
     <tr>
         <td>
-            Framework for Targeted Tracing of Software Execution with Debug Symbols
+            GitHub Application for Continuous Engineering
         </td>
         <td>
             <a href="#">PDF</a>
@@ -384,9 +399,10 @@
             AVAILABLE
         </td>
     </tr>
-        <tr>
+	
+	<tr>
         <td>
-            GitHub Application for Continuous Engineering
+            Framework for Targeted Tracing of Software Execution with Debug Symbols
         </td>
         <td>
             <a href="#">PDF</a>
@@ -394,8 +410,8 @@
         <td>
             
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="inProgress">
+            IN PROGRESS
         </td>
     </tr>
         
