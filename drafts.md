@@ -15,6 +15,20 @@
             <b>Status</b>
         </td>
     </tr>
+	
+	<tr>
+        <td>
+            Visualization approach for Expressing Synchronization Intentions
+        </td>
+        <td>
+            <a href="doc/topics/master/visSynch.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
 
     <tr>
         <td>
@@ -46,20 +60,21 @@
         </td>
     </tr>
 
-    <tr>
+	<tr>
         <td>
-            Visualization approach for Expressing Synchronization Intentions
+            Facilitation of AI-Supported generation of Source Code through Requirements Templates
         </td>
         <td>
-            <a href="doc/topics/master/visSynch.pdf">PDF</a>
+            <a href="doc/topics/master/aiSupportedRequirementsTemplates.pdf">PDF</a>
         </td>
         <td>
+            Ahad Mushir
         </td>
-        <td class="available">
-            AVAILABLE
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
-	
+
 	<tr>
         <td>
             Testing performance of Microservices on Edge 
@@ -74,6 +89,26 @@
             COMPLETED
         </td>
     </tr>
+	
+		<tr>
+        <td>
+            Framework to facilitate development of multithreaded applications in ROS2
+        </td>
+        <td>
+            <a href="doc/topics/master/multithreadedApplicationsROS2.pdf">PDF</a>
+        </td>
+        <td>
+            Ahad Mushir
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+
+
+
+	
+
 	
     <tr>
         <td>
