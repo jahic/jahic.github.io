@@ -98,7 +98,7 @@
             <a href="doc/topics/master/multithreadedApplicationsROS2.pdf">PDF</a>
         </td>
         <td>
-            Ahad Mushir
+            Arian Ajdari
         </td>
         <td class="completed">
             COMPLETED
