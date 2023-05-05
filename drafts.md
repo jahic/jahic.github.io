@@ -18,6 +18,34 @@
 	
 	<tr>
         <td>
+            AI powered Traceability in Software System Architecture
+        </td>
+        <td>
+            <a href="doc/topics/master/aiPoweredTraceabilityInSoftwareSystemArchitecture.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            A generic AI training approach based on existing AI models
+        </td>
+        <td>
+            <a href="doc/topics/master/aGenericAITrainingApproach.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
             Architecture-centric Source Code Organisation Control
         </td>
         <td>
