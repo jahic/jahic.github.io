@@ -1,6 +1,51 @@
 ## 2023
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        [KEYNOTE]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="agritech2023">Entrepreneurship Potential of AI in Agriculture</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+
+    <p class="conferenceName">
+        AgriTech.
+    </p>
+
+    <p class="conferencePlace">
+        Sarajevo, Bosnia and Herzegovina.
+    </p>
+
+    <p class="conferenceDate">
+        21 September 2023
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+
+## 2023
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
