@@ -8,3 +8,6 @@
 <br/>
 #### <a href="doc/tutorial/agritech2023/agritech2023eng.pdf">Entrepreneurship Potential of AI in Agriculture</a> (ENG)
 #### <a href="doc/tutorial/agritech2023/agritech2023bos.pdf">Potencijal umjetne inteligencije za poduzetništvo u poljoprivredi</a> (BOS)
+
+<br/>
+<img src="doc/tutorial/agritech2023/agritech2023.jpg"> </img>
