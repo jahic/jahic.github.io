@@ -42,6 +42,54 @@
         Video
     </a>]
   </p>
+ 
+## 2024
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="hipeac2024">Software System Architecture View: Why Concurrency and Memory Models matter?</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+    <p class="conferenceAuthors">
+    , Jade Alglave.
+     </p>  
+
+    <p class="conferenceName">
+        HiPEAC.
+    </p>
+
+    <p class="conferencePlace">
+        Munich, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        17 - 19 January 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
 
 ## 2023
 <p class="conferencePaperInput">
