@@ -4,7 +4,7 @@
         [SEMINAR]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="rse2024">Software architecture: between rigid process and 'somehow I manage' approach</a>.
+        <a href="https://talks.cam.ac.uk/talk/index/205042">Software architecture: between rigid process and 'somehow I manage' approach</a>.
     </p>
 
     <p class="conferenceAuthors">         
@@ -40,7 +40,7 @@
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="hipeac2024">Software System Architecture View: Why Concurrency and Memory Models matter?</a>.
+        <a href="https://www.hipeac.net/2024/munich/#/program/sessions/8087/">Software System Architecture View: Why Concurrency and Memory Models matter?</a>.
     </p>
 
     <p class="conferenceAuthors">         
