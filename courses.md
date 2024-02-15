@@ -1,6 +1,42 @@
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        [SEMINAR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="rse2024">Software architecture: between rigid process and 'somehow I manage' approach</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+
+    <p class="conferenceName">
+        Cambridge University RSE Seminars.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        25 January 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://www.youtube.com/watch?v=LbZhZw9Jfi0">
+        Video
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
