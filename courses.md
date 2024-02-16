@@ -11,8 +11,8 @@
  
     </p>
     <p class="authorMe">
-    Jasmin Jahić,
-    </p>
+    Jasmin Jahić
+    </p>,
 
     <p class="conferenceName">
         Cambridge University RSE Seminars.
