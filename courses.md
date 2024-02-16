@@ -11,7 +11,7 @@
  
     </p>
     <p class="authorMe">
-    Jasmin Jahić
+    Jasmin Jahić,
     </p>
 
     <p class="conferenceName">
