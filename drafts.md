@@ -405,7 +405,7 @@
             Enhancement of Lockset Eraser algorithm for finding concurrency bugs
         </td>
         <td>
-            <a href="#">PDF</a>
+            <a href="doc/topics/bachelor/enhancementLocksetEraser.pdf">PDF</a>
         </td>
         <td>
             
@@ -419,7 +419,7 @@
             Modelling of concurrency-relevant architectural decisions in Agile
         </td>
         <td>
-            <a href="#">PDF</a>
+            <a href="doc/topics/bachelor/modellingConcurrencyAgile.pdf">PDF</a>
         </td>
         <td>
             
@@ -433,7 +433,7 @@
             Continuous testing of concurrent software
         </td>
         <td>
-            <a href="#">PDF</a>
+            <a href="doc/topics/bachelor/continuousTestingConcurrentSoftware.pdf">PDF</a>
         </td>
         <td>
             
@@ -447,7 +447,7 @@
             GitHub Application for Continuous Engineering
         </td>
         <td>
-            <a href="#">PDF</a>
+            <a href="doc/topics/bachelor/githubApplicationContiniousEngineering.pdf">PDF</a>
         </td>
         <td>
             
@@ -462,7 +462,7 @@
             Framework for Targeted Tracing of Software Execution with Debug Symbols
         </td>
         <td>
-            <a href="#">PDF</a>
+            <a href="doc/topics/bachelor/targetedTracingDebug.pdf">PDF</a>
         </td>
         <td>
             
