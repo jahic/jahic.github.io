@@ -4,7 +4,7 @@
         [SEMINAR]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="basa2024">Software architects: How to make higher quality software (and higher market value) in a more efficient way?</a>.
+        <a href="basa2024">Software architects: How to make quality software (with higher market value) in a more efficient way?</a>.
     </p>
 
     <p class="conferenceAuthors">         
