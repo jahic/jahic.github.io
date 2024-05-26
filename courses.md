@@ -4,6 +4,47 @@
         [SEMINAR]
     </p>
     <p class="conferenceArticleTitle"> 
+        <a href="basa2024">Software architects: How to make higher quality software (and higher market value) in a more efficient way?</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Business and Social Academy, Bit Alliance, 
+    </p>
+
+    <p class="conferencePlace">
+        Sarajevo, Bosnia and Herzegovina.
+    </p>
+
+    <p class="conferenceDate">
+        08 May 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="doc\tutorial\basa2024\BusinessAndSocialAcademy2024-BOS-pub.pdf">
+        Slides (Bosnian)
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SEMINAR]
+    </p>
+    <p class="conferenceArticleTitle"> 
         <a href="https://talks.cam.ac.uk/talk/index/205042">Software architecture: between rigid process and 'somehow I manage' approach</a>.
     </p>
 
