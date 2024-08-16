@@ -2,7 +2,7 @@
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [SEMINAR]
+        [TECH TALK]
     </p>
     <p class="conferenceArticleTitle"> 
         <a href="https://www.ucl.ac.uk/advanced-research-computing/events/2024/aug/techsocial-series-august-2024">Software architecture: between rigid process and 'somehow I manage' approach</a>.
@@ -42,7 +42,47 @@
 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [SEMINAR]
+        [INVITED LECTURE]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="#">AI in Software Architecture and Software Engineering</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Hochschule Bremen - City University of Applied Sciences.
+    </p>
+
+    <p class="conferencePlace">
+        Bremen, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        13 June 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="doc\tutorial\bremen2024\bremen2024.pdf">
+    Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TECH TALK]
     </p>
     <p class="conferenceArticleTitle"> 
         <a href="https://talks.cam.ac.uk/talk/index/205042">Software architecture: between rigid process and 'somehow I manage' approach</a>.
@@ -125,7 +165,7 @@
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [SEMINAR]
+        [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
         <a href="basa2024">Software architects: How to make quality software (with higher market value) in a more efficient way?</a>.
@@ -311,7 +351,7 @@
 ## 2019 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
-        [TUTORIAL]
+        [WORKSHOP]
     </p>
     <p class="conferenceArticleTitle"> 
         Advanced software development in the era of multicores.
@@ -354,7 +394,172 @@
 # Lectures
 ## 2024
 
-  
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [LECTURER]
+    </p>
+    <p class="conferenceArticleTitle"> 
+         <a href="https://advanceonline.cam.ac.uk/courses/managing-software-architecture">Managing Software Architecture</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Cambridge Advance Online (CAO).
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [LECTURER]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Software Architectures for Embedded Software Systems.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Distance and Independent Studies Center (DISC).
+     </p>  
+
+    <p class="conferenceName">
+        University of Kaiserslautern.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        Summer Semester 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+## 2023
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [INVITED PROFESSOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+         <a href="jemaro2022">Concurrent Computing in Robotics</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Japan-Europe Master on Advanced Robotics (JEMARO).
+     </p>  
+
+    <p class="conferenceName">
+        Ecole Centrale de Nantes.
+    </p>
+
+    <p class="conferencePlace">
+        Nantes, France.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [LECTURER]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Software Architectures for Embedded Software Systems.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Distance and Independent Studies Center (DISC).
+     </p>  
+
+    <p class="conferenceName">
+        University of Kaiserslautern.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        Summer Semester 2022
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
 ## 2020
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
