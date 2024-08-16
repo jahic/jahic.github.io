@@ -20,7 +20,7 @@
     </p>
 
     <p class="conferencePlace">
-        Cambridge, UK.
+        London, UK.
     </p>
 
     <p class="conferenceDate">

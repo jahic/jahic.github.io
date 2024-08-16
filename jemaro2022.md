@@ -5,6 +5,6 @@
  
 ##### <a href="https://jemaro.ec-nantes.fr/english-version/about">Japan-Europe Master on Advanced Robotics</a>
 <br/>
-##### Jasmin Jahic, University of Cambridge, Arm, UK
+##### Jasmin Jahic, University of Cambridge, UK
 <br/>
 <img src = "doc\tutorial\jemaro2022\jemaroposter.jpg"/>
