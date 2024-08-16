@@ -1,3 +1,127 @@
+# Invited talks
+## 2024
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SEMINAR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="https://www.ucl.ac.uk/advanced-research-computing/events/2024/aug/techsocial-series-august-2024">Software architecture: between rigid process and 'somehow I manage' approach</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Advanced Research Computing Centre (ARC), TechSocials University College London (UCL).
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        14 August 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="doc\tutorial\arc2024\arc2024.pdf">
+    Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SEMINAR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="https://talks.cam.ac.uk/talk/index/205042">Software architecture: between rigid process and 'somehow I manage' approach</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Cambridge University RSE Seminars.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        25 January 2024
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="https://www.youtube.com/watch?v=LbZhZw9Jfi0">
+        Video
+    </a>]
+  </p>
+  
+## 2023
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [KEYNOTE]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="agritech2023">Entrepreneurship Potential of AI in Agriculture</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>
+
+    <p class="conferenceName">
+        AgriTech.
+    </p>
+
+    <p class="conferencePlace">
+        Sarajevo, Bosnia and Herzegovina.
+    </p>
+
+    <p class="conferenceDate">
+        21 September 2023
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+# Tutorials and Workshops
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -38,42 +162,6 @@
         Video
     </a>
 	]
-  </p>
-
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [SEMINAR]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        <a href="https://talks.cam.ac.uk/talk/index/205042">Software architecture: between rigid process and 'somehow I manage' approach</a>.
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić
-    </p>,
-
-    <p class="conferenceName">
-        Cambridge University RSE Seminars.
-    </p>
-
-    <p class="conferencePlace">
-        Cambridge, UK.
-    </p>
-
-    <p class="conferenceDate">
-        25 January 2024
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="https://www.youtube.com/watch?v=LbZhZw9Jfi0">
-        Video
-    </a>]
   </p>
 
 <p class="conferencePaperInput">
@@ -122,54 +210,9 @@
         Video
     </a>]
   </p>
-  
-## 2023
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [KEYNOTE]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        <a href="agritech2023">Entrepreneurship Potential of AI in Agriculture</a>.
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić
-    </p>
-
-    <p class="conferenceName">
-        AgriTech.
-    </p>
-
-    <p class="conferencePlace">
-        Sarajevo, Bosnia and Herzegovina.
-    </p>
-
-    <p class="conferenceDate">
-        21 September 2023
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>
-    | 
-    <a href="#">
-        Video
-    </a>]
-  </p>
- 
 
 ## 2023
+
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
         [TUTORIAL]
@@ -216,7 +259,6 @@
         Video
     </a>]
   </p>
-
 
 ## 2021
 <p class="conferencePaperInput">
@@ -266,177 +308,6 @@
     </a>]
   </p>
 
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [SUPERVISOR]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Setting up Efficient Development Environment for Continuous Software Engineering
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    
-     </p>  
-
-    <p class="conferenceName">
-        University of Cambridge.
-    </p>
-
-    <p class="conferencePlace">
-        Cambridge, UK.
-    </p>
-
-    <p class="conferenceDate">
-        Norfolk outreach.
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
-## 2020
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [LECTURER]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Software Architectures for Embedded Software Systems.
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    Distance and Independent Studies Center (DISC).
-     </p>  
-
-    <p class="conferenceName">
-        University of Kaiserslautern.
-    </p>
-
-    <p class="conferencePlace">
-        Kaiserslautern, Germany.
-    </p>
-
-    <p class="conferenceDate">
-        Summer Semester 2020
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
-
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [SUPERVISOR]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Concurrent and Distributed Systems
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    
-     </p>  
-
-    <p class="conferenceName">
-        University of Cambridge.
-    </p>
-
-    <p class="conferencePlace">
-        Cambridge, UK.
-    </p>
-
-    <p class="conferenceDate">
-        Michaelmas Term.
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
-
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [SUPERVISOR]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Computer Design
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    
-     </p>  
-
-    <p class="conferenceName">
-        University of Cambridge.
-    </p>
-
-    <p class="conferencePlace">
-        Cambridge, UK.
-    </p>
-
-    <p class="conferenceDate">
-        Michaelmas Term.
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
 ## 2019 
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -480,6 +351,56 @@
     </a>]
   </p>
 
+# Lectures
+## 2024
+
+  
+## 2020
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [LECTURER]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Software Architectures for Embedded Software Systems.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Distance and Independent Studies Center (DISC).
+     </p>  
+
+    <p class="conferenceName">
+        University of Kaiserslautern.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        Summer Semester 2020
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+ 
+## 2019
+
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
         [LECTURER]
@@ -522,50 +443,7 @@
         Slides
     </a>]
   </p>
-
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [TEACHING ASSISTANT]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Software and System Architecture.
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    Software Engineering: Processes and Measurement Research Group.
-     </p>  
-
-    <p class="conferenceName">
-        University of Kaiserslautern.
-    </p>
-
-    <p class="conferencePlace">
-        Kaiserslautern, Germany.
-    </p>
-
-    <p class="conferenceDate">
-        Summer Semester 2019
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
- 
+  
 ## 2018
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -610,49 +488,6 @@
     </a>]
   </p>
 
-<p class="conferencePaperInput">
-    <p class="conferenceAbbreviation">
-        [TEACHING ASSISTANT]
-    </p>
-    <p class="conferenceArticleTitle"> 
-        Software and System Architecture.
-    </p>
-
-    <p class="conferenceAuthors">         
- 
-    </p>
-    <p class="authorMe">
-    Jasmin Jahić.
-    </p>
-    <p class="conferenceAuthors">
-    Software Engineering: Processes and Measurement Research Group.
-     </p>  
-
-    <p class="conferenceName">
-        University of Kaiserslautern.
-    </p>
-
-    <p class="conferencePlace">
-        Kaiserslautern, Germany.
-    </p>
-
-    <p class="conferenceDate">
-        Summer Semester 2018
-    </p>
-
-    <p class="conferenceNote">
-    </p>
-    <br/> 
-    [ 
-    <a href="#">
-        Code
-    </a> 
-    | 
-    <a href="#">
-        Slides
-    </a>]
-  </p>
- 
 ## 2017
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
@@ -740,3 +575,228 @@
         Slides
     </a>]
   </p>
+
+# Teaching assistance and Supervisions
+## 2024
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SUPERVISOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Setting up Efficient Development Environment for Continuous Software Engineering
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Norfolk outreach.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SUPERVISOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Concurrent and Distributed Systems
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Michaelmas Term.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SUPERVISOR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Computer Design
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    
+     </p>  
+
+    <p class="conferenceName">
+        University of Cambridge.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        Michaelmas Term.
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+
+
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TEACHING ASSISTANT]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Software and System Architecture.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Software Engineering: Processes and Measurement Research Group.
+     </p>  
+
+    <p class="conferenceName">
+        University of Kaiserslautern.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        Summer Semester 2019
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+ 
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TEACHING ASSISTANT]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        Software and System Architecture.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić.
+    </p>
+    <p class="conferenceAuthors">
+    Software Engineering: Processes and Measurement Research Group.
+     </p>  
+
+    <p class="conferenceName">
+        University of Kaiserslautern.
+    </p>
+
+    <p class="conferencePlace">
+        Kaiserslautern, Germany.
+    </p>
+
+    <p class="conferenceDate">
+        Summer Semester 2018
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+    <a href="#">
+        Code
+    </a> 
+    | 
+    <a href="#">
+        Slides
+    </a>]
+  </p>
+ 
