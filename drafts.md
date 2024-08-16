@@ -46,20 +46,6 @@
 	
 	<tr>
         <td>
-            Architecture-centric Source Code Organisation Control
-        </td>
-        <td>
-            <a href="doc/topics/master/architectureSourceCodeOrganisation.pdf">PDF</a>
-        </td>
-        <td>
-        </td>
-        <td class="available">
-            AVAILABLE
-        </td>
-    </tr>
-	
-	<tr>
-        <td>
             Framework for Continuous and Targeted Tracing of Software Execution
         </td>
         <td>
@@ -97,8 +83,8 @@
         <td>
             
         </td>
-        <td class="inProgress">
-            IN PROGRESS
+        <td class="available">
+            AVAILABLE
         </td>
     </tr>
 	
@@ -111,6 +97,21 @@
         </td>
         <td>
             
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Architecture-centric Source Code Organisation Control
+        </td>
+        <td>
+            <a href="doc/topics/master/architectureSourceCodeOrganisation.pdf">PDF</a>
+        </td>
+        <td>
+			Rajat Rokade
         </td>
         <td class="inProgress">
             IN PROGRESS
@@ -125,10 +126,10 @@
             <a href="doc/topics/master/autoGenSynch.pdf">PDF</a>
         </td>
         <td>
-            
+            Matheus Bortoloti Dias
         </td>
-        <td class="inProgress">
-            IN PROGRESS
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
 
