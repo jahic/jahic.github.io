@@ -1,11 +1,10 @@
-## Software System Architecture View: Why Concurrency and Memory Models matter?
+## Concurrent Computing in Robotics
 <br/>
-##### 17.01.2024
-##### <a href="https://www.hipeac.net/2024/munich/#/">2024 HiPEAC conference</a>, European Network on High-performance Embedded Architecture and Compilation
+##### 14.02.2022 - 11.03.2022
+
+ 
+##### <a href="https://jemaro.ec-nantes.fr/english-version/about">Japan-Europe Master on Advanced Robotics</a>
 <br/>
 ##### Jasmin Jahic, University of Cambridge, Arm, UK
-##### Jade Alglave, University College London, Arm, UK
 <br/>
-#### <a href="doc/tutorial/hipeac2024/hipeac-2024-part-1.pdf">Session 1</a>: Fundamental Issues with Concurrency in Embedded Software Systems from Architectural Point of View
-#### <a href="doc/tutorial/hipeac2024/hipeac-2024-part-2.pdf">Session 2</a>: Synchronization in Concurrent Software is an Architectural Decision
-#### <a href="doc/tutorial/hipeac2024/hipeac-2024-part-3.pdf">Session 3</a>: Arm’s Memory Model
+<img src = "doc\tutorial\jemaro2022\jemaroposter.jpg"/>
