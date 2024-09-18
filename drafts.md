@@ -113,8 +113,8 @@
         <td>
 			Rajat Rokade
         </td>
-        <td class="inProgress">
-            IN PROGRESS
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
     
