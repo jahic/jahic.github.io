@@ -18,6 +18,20 @@
 	
 	<tr>
         <td>
+            Redefining abstractions in software engineering using AI
+        </td>
+        <td>
+            <a href="doc/topics/master/redefiningAbstractionsInSwEngUsingAI.pdf">PDF</a>
+        </td>
+        <td>
+        </td>
+        <td class="available">
+            AVAILABLE
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
             AI powered Traceability in Software System Architecture
         </td>
         <td>
