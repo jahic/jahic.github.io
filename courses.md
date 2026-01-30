@@ -1,4 +1,45 @@
 # Invited talks
+## 2025
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [WEBINAR]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="https://www.youtube.com/watch?si=YgIlpH6WoVvrAKRB&v=qNcGI2yBaI8&feature=youtu.be">Masterclass: Software Architecture in the Age of AI</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Cambridge Advance Online.
+    </p>
+
+    <p class="conferencePlace">
+        Cambridge, UK.
+    </p>
+
+    <p class="conferenceDate">
+        21 January 2025
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+    Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
+
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
