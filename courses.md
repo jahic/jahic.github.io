@@ -5,7 +5,7 @@
         [WEBINAR]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="https://www.youtube.com/watch?si=YgIlpH6WoVvrAKRB&v=qNcGI2yBaI8&feature=youtu.be">Masterclass: Software Architecture in the Age of AI</a>.
+        <a href="https://advanceonline.cam.ac.uk/blog/cambridges-dr-jahic-discusses-software-architecture-in-live-q-and-a-webinar">Masterclass: Software Architecture in the Age of AI</a>.
     </p>
 
     <p class="conferenceAuthors">         
@@ -35,7 +35,7 @@
     Slides
     </a>
     | 
-    <a href="#">
+    <a href="https://www.youtube.com/watch?si=YgIlpH6WoVvrAKRB&v=qNcGI2yBaI8&feature=youtu.be">
         Video
     </a>]
   </p>
