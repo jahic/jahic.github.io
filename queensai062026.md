@@ -8,7 +8,7 @@
 <br/>
 
 #### Course material:
-##### - <a href="doc/tutorial/queensai062026/hipeac-2024-part-1.pdf">Slides</a>
-##### - <a href="doc/tutorial/queensai062026/hipeac-2024-part-2.pdf">CoatOfArms</a> image
-##### - <a href="doc/tutorial/queensai062026/hipeac-2024-part-3.pdf">LibraryImage</a> image
-##### - <a href="doc/tutorial/queensai062026/hipeac-2024-part-3.pdf">Data</a> Excel document
+##### - <a href="doc/tutorial/queensai062026/01IntroductionToGenAI.pdf">Slides</a>
+##### - <a href="doc/tutorial/queensai062026/CoatOfArms.jpg">CoatOfArms</a> image
+##### - <a href="doc/tutorial/queensai062026/LibraryImage.jpg">LibraryImage</a> image
+##### - <a href="doc/tutorial/queensai062026/Data.xlsx">Data</a> Excel document
