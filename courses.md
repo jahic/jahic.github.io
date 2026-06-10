@@ -203,6 +203,48 @@
     </a>]
   </p>
 # Tutorials and Workshops
+## 2026
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="queensai062026">Introduction to GenAI: Practical Benefits and Challenges</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Internal tutorial at Queens' college
+    </p>
+
+    <p class="conferencePlace">
+        University of Cambridge, Cambridge
+    </p>
+
+    <p class="conferenceDate">
+        10 June 2026
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+  
 ## 2024
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
