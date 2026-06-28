@@ -209,6 +209,48 @@
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
+        <a href="tsi2026">Redefining Human-Machine Interface in the age of GenAI (Bosnian)</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        Tuzla Summer Institute 2026
+    </p>
+
+    <p class="conferencePlace">
+        University of Cambridge, Cambridge
+    </p>
+
+    <p class="conferenceDate">
+        29 June - 02 July 2026
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
         <a href="queensai062026">Introduction to GenAI: Practical Benefits and Challenges</a>.
     </p>
 
