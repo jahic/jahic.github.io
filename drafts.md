@@ -119,6 +119,21 @@
 	
 	<tr>
         <td>
+            Integrating Large Language Models into Agile Methodologies for Intelligent Code Review to Detect Anti-Patterns
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+			Ezeoke Onyekachi Samuel
+        </td>
+        <td class="inProgress">
+            IN PROGRESS
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
             Architecture-centric Source Code Organisation Control
         </td>
         <td>
@@ -126,6 +141,21 @@
         </td>
         <td>
 			Rajat Rokade
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Capturing Concurrency Aspects of Software Under Development To Reduce Testing Effort
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+			Mae Hood
         </td>
         <td class="completed">
             COMPLETED
@@ -141,6 +171,21 @@
         </td>
         <td>
             Matheus Bortoloti Dias
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Addressing software integration challenges for cross-organizational Agile teams in heterogeneous and distributed embedded systems 
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Eric Salewyn
         </td>
         <td class="completed">
             COMPLETED
@@ -474,6 +519,141 @@
 	
 	<tr>
         <td>
+            Integrating Memory Barriers and Large Language Models into Static Lockset-Based Data Race Detection
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Jude Hill
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Using NLP techniques to investigate the relation between reactivity to customer feedback and software product success
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Samuel Seyoum
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Heuristic-Based Inference of Version History Graphs
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            John Glass
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+
+	<tr>
+        <td>
+            Continuous Testing of Concurrent Software
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Thomas Popay
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>	
+	
+	<tr>
+        <td>
+            Automatic Generation of Synchronisation Primitives for Multi-threaded Programs in Java
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Hamza Hussain
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Continuous Testing of Concurrent Software
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Thomas Reynolds
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Optimising generation of Minesweeper boards using formal verification
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Khai Yang Teoh
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Support for LLVM Interpreter to Run Multithreaded Applications
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Victoria Adjei
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
+            Automating the Scheduling of Complex Events
+        </td>
+        <td>
+            <a href="#">PDF</a>
+        </td>
+        <td>
+            Aidan Brocklebank
+        </td>
+        <td class="completed">
+            COMPLETED
+        </td>
+    </tr>
+	
+	<tr>
+        <td>
             Framework for Targeted Tracing of Software Execution with Debug Symbols
         </td>
         <td>
@@ -482,8 +662,8 @@
         <td>
             
         </td>
-        <td class="inProgress">
-            IN PROGRESS
+        <td class="completed">
+            COMPLETED
         </td>
     </tr>
         
