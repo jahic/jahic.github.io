@@ -209,7 +209,7 @@
         [SUMMER SCHOOL]
     </p>
     <p class="conferenceArticleTitle"> 
-        <a href="fitzed">Computer Science: Artificial Intelligence and Machine Learning</a>.
+        <a href="fitzed2026">Computer Science: Artificial Intelligence and Machine Learning</a>.
     </p>
 
     <p class="conferenceAuthors">         
