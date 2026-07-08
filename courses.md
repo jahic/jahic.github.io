@@ -206,6 +206,48 @@
 ## 2026
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        [SUMMER SCHOOL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="fitzed">Computer Science: Artificial Intelligence and Machine Learning</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p> 
+
+    <p class="conferenceName">
+        <a href="https://www.fitz.cam.ac.uk/sites/default/files/2026-01/FitzEd2026_Programme%201_v6.pdf">FitzEd Summer School 2026</a>
+    </p>
+
+    <p class="conferencePlace">
+        University of Cambridge, Cambridge
+    </p>
+
+    <p class="conferenceDate">
+        13 July - 23 July 2026
+    </p>
+
+    <p class="conferenceNote"> Lead course instructor
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
