@@ -4,7 +4,7 @@
 ##### Computer Science: Artificial Intelligence and Machine Learning
 ##### Part of the "FitzEd Summer School 2026"
 <br/>
-##### Jasmin Jahic, University of Cambridge,UK
+##### Jasmin Jahic, Lead course instructor, University of Cambridge, UK
 <br/>
 
 #### Course material:

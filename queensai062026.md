@@ -4,7 +4,7 @@
 ##### Internal tutorial at Queens' college, Cambridge
 ##### Part of the series "AI education for educators"
 <br/>
-##### Jasmin Jahic, University of Cambridge,UK
+##### Jasmin Jahic, University of Cambridge, UK
 <br/>
 
 #### Course material:
