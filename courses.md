@@ -209,6 +209,47 @@
         [SUMMER SCHOOL]
     </p>
     <p class="conferenceArticleTitle"> 
+        <a href="peterhouse2026">Business-related demonstrations of capabilities and limitations of GenAI</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p> 
+
+    <p class="conferenceName">
+        <a href="#">AI for Science</a>
+    </p>
+
+    <p class="conferencePlace">
+        University of Cambridge, Cambridge
+    </p>
+
+    <p class="conferenceDate">
+        12 August 2026
+    </p>
+
+    <p class="conferenceNote"> Guest lecturer
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+  
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [SUMMER SCHOOL]
+    </p>
+    <p class="conferenceArticleTitle"> 
         <a href="fitzed2026">Computer Science: Artificial Intelligence and Machine Learning</a>.
     </p>
 
