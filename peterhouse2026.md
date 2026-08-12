@@ -7,7 +7,7 @@
 <br/>
 
 #### Slides:
-##### <a href="doc/tutorial/peterhouse2026/practicalIllustrationsOfCapabilitiesAndLimitationsOfGenAI.pdf">Practical illustrations of capabilities and limitations of GenAI</a>
+##### <a href="doc/tutorial/peterhouse2026/presentation.pdf">Practical illustrations of capabilities and limitations of GenAI</a>
 <br/>
 #### Material for exercises:
 ##### - <a href="doc/tutorial/peterhouse2026/CoatOfArms.jpg">CoatOfArms</a> image
