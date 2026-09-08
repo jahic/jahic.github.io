@@ -206,6 +206,47 @@
 ## 2026
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="moller2026">Measuring Impact and Value</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p> 
+
+    <p class="conferenceName">
+        <a href="https://www.mollerinstitute.com/">Agentic AI for Educationists: Leading Responsible AI Transformation in Education</a>
+    </p>
+
+    <p class="conferencePlace">
+        Moller Institute, University of Cambridge, Cambridge
+    </p>
+
+    <p class="conferenceDate">
+        07-08 September 2026
+    </p>
+
+    <p class="conferenceNote"> Lecturer
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
         [SUMMER SCHOOL]
     </p>
     <p class="conferenceArticleTitle"> 
