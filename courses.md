@@ -1,4 +1,44 @@
 # Invited talks
+## 2026
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [INVITED TALK]
+    </p>
+    <p class="conferenceArticleTitle"> 
+        <a href="unsa2026">GenAI in SDLC: Opportunities and Challenges</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+       <a href="https://hcai.etf.unsa.ba/">Human-Centered Artificial Intelligence</a>.
+    </p>
+
+    <p class="conferencePlace">
+        Sarajevo, Bosnia and Herzegovina.
+    </p>
+
+    <p class="conferenceDate">
+        25 September 2026
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+    Slides
+    </a>
+    | 
+    <a href="#">
+        Video
+    </a>]
+  </p>
 ## 2025
 <p class="conferencePaperInput">
     <p class="conferenceAbbreviation">
