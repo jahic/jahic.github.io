@@ -67,9 +67,10 @@
     </tbody>
 </table>
 
-#### Dodatni materijal:
+#### Tekst:
+##### "There is no struggle too vast, no odds too overwhelming, for even should we fail - should we fall - we will know that we have lived."
 
-##### - <a href="doc/tutorial/tsi2026/Dio1Vjezba5.jpg">Dio 1: Vjezba 5</a>
-##### - <a href="doc/tutorial/tsi2026/Dio3Vjezba1CoatOfArms.jpg">Dio 3: Vjezba 1 - CoatOfArms</a>
-##### - <a href="doc/tutorial/tsi2026/Dio3Vjezba2LibraryImage.jpg">Dio 3: Vjezba 2 - LibraryImage</a>
-##### - <a href="doc/tutorial/tsi2026/Data.xlsx">Dio 3: Vjezba 3 - Data.xlsx</a>
+##### - <a href="doc/tutorial/prolog2026/Neuron.jpg">Neuron</a>
+##### - <a href="doc/tutorial/prolog2026/CoatOfArms.jpg">CoatOfArms</a>
+##### - <a href="doc/tutorial/prolog2026/LibraryImage.jpg">LibraryImage</a>
+##### - <a href="doc/tutorial/prolog2026/Data.xlsx">Data.xlsx</a>
