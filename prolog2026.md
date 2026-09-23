@@ -70,6 +70,7 @@
 #### Tekst:
 ##### "There is no struggle too vast, no odds too overwhelming, for even should we fail - should we fall - we will know that we have lived."
 
+#### Slike:
 ##### - <a href="doc/tutorial/prolog2026/Neuron.jpg">Neuron</a>
 ##### - <a href="doc/tutorial/prolog2026/CoatOfArms.jpg">CoatOfArms</a>
 ##### - <a href="doc/tutorial/prolog2026/LibraryImage.jpg">LibraryImage</a>
