@@ -56,7 +56,7 @@
         </tr>
 
         <tr>
-            <td>Objektno-orjentisano programiranje</td>
+            <td>Objektno-orijentisano programiranje</td>
             <td>Francois, Hannah, Steward, Li, Luka</td>
         </tr>
 
