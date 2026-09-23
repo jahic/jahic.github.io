@@ -249,6 +249,48 @@
         [TUTORIAL]
     </p>
     <p class="conferenceArticleTitle"> 
+        <a href="prolog2026">Business opportunities with AI (Bosnian)</a>.
+    </p>
+
+    <p class="conferenceAuthors">         
+ 
+    </p>
+    <p class="authorMe">
+    Jasmin Jahić
+    </p>,
+
+    <p class="conferenceName">
+        <a href="https://prolog.naucnodrustvo.org">Prolog 2026</a>
+    </p>
+
+    <p class="conferencePlace">
+        Sarajevo, Bosnia and Herzegovina
+    </p>
+
+    <p class="conferenceDate">
+        26 September 2026
+    </p>
+
+    <p class="conferenceNote">
+    </p>
+    <br/> 
+    [ 
+	<a href="#">
+        Slides
+    </a>
+    | 
+	<a href="#">
+        Video
+    </a>
+	]
+  </p>
+
+
+<p class="conferencePaperInput">
+    <p class="conferenceAbbreviation">
+        [TUTORIAL]
+    </p>
+    <p class="conferenceArticleTitle"> 
         <a href="moller2026">Measuring Impact and Value</a>.
     </p>
 
